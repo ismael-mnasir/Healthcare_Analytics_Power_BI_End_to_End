@@ -1,0 +1,1001 @@
+Admission_ID,Patient_ID,Hospital,Department,Doctor,Admission_Type,Ward,Admission_Date,Discharge_Date,Length_of_Stay,Diagnosis,Status,Total_Bill_PKR,Insurance_Covered_PKR,Out_of_Pocket_PKR,Satisfaction_Score
+ADM0001,P0100,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Referral,ICU,2024-11-18,2024-12-07,19,Arthritis,Recovered,138970,113895,25075,3.1
+ADM0002,P0102,Sunrise Health Clinic,Gynecology,Dr. Zara Ahmed,Emergency,Private Room,2024-01-01,2024-01-06,5,Endometriosis,Referred,138766,61754,77012,3.3
+ADM0003,P0338,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Emergency,ICU,2023-06-06,2023-06-25,19,Gallbladder Removal,Discharged,194594,105538,89056,4.5
+ADM0004,P0365,Sunrise Health Clinic,Oncology,Dr. Maria Lopez,Elective,Semi-Private,2024-01-04,2024-01-09,5,Colon Cancer,Under Treatment,144381,0,144381,3.7
+ADM0005,P0056,Valley Care Hospital,Neurology,Dr. Emily Chen,Referral,ICU,2023-03-25,2023-04-03,9,Migraine,Recovered,73735,38228,35507,4.5
+ADM0006,P0297,Valley Care Hospital,Oncology,Dr. Maria Lopez,Referral,General Ward,2023-08-06,2023-08-08,2,Colon Cancer,Referred,105289,84473,20816,3.1
+ADM0007,P0396,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Referral,General Ward,2024-04-20,2024-05-07,17,Hernia Repair,Discharged,139992,78919,61073,3.6
+ADM0008,P0092,Metro Community Hospital,Neurology,Dr. Omar Farooq,Elective,General Ward,2024-01-03,2024-01-05,2,Migraine,Discharged,77626,39146,38480,3.8
+ADM0009,P0406,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Referral,Private Room,2024-04-25,2024-05-10,15,Poisoning,Referred,86733,47342,39391,4.1
+ADM0010,P0188,Valley Care Hospital,Orthopedics,Dr. Nadia Hussain,Elective,Semi-Private,2023-09-15,2023-09-28,13,Back Pain,Recovered,104241,0,104241,3.8
+ADM0011,P0072,St. Mary Medical Center,Gynecology,Dr. Zara Ahmed,Emergency,Private Room,2023-08-24,2023-08-27,3,PCOS,Discharged,113476,56191,57285,3.5
+ADM0012,P0170,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,General Ward,2024-11-22,2024-12-08,16,Knee Replacement,Discharged,149394,70598,78796,3.9
+ADM0013,P0083,Valley Care Hospital,Neurology,Dr. Omar Farooq,Emergency,Semi-Private,2023-02-10,2023-03-01,19,Migraine,Under Treatment,79520,0,79520,4.9
+ADM0014,P0111,Valley Care Hospital,Gynecology,Dr. Zara Ahmed,Referral,General Ward,2024-04-27,2024-05-13,16,Prenatal Care,Discharged,124960,73082,51878,4.3
+ADM0015,P0176,Valley Care Hospital,Gynecology,Dr. Zara Ahmed,Emergency,Semi-Private,2024-08-27,2024-08-30,3,Uterine Fibroid,Recovered,68749,31590,37159,2.9
+ADM0016,P0462,Valley Care Hospital,Cardiology,Dr. Ahmed Khan,Referral,Semi-Private,2024-05-30,2024-06-03,4,Arrhythmia,Under Treatment,61816,28352,33464,4.7
+ADM0017,P0358,St. Mary Medical Center,Oncology,Dr. David Lee,Elective,General Ward,2024-05-08,2024-05-21,13,Colon Cancer,Referred,144579,106067,38512,4.4
+ADM0018,P0466,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Referral,ICU,2024-09-04,2024-09-22,18,Knee Replacement,Referred,119941,48272,71669,4.1
+ADM0019,P0353,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Elective,Semi-Private,2024-01-06,2024-01-10,4,Cardiac Arrest,Under Treatment,67920,0,67920,5.0
+ADM0020,P0204,Metro Community Hospital,Pediatrics,Dr. Priya Sharma,Elective,Private Room,2024-07-19,2024-08-06,18,Malnutrition,Referred,140382,91472,48910,4.3
+ADM0021,P0438,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Referral,ICU,2024-04-02,2024-04-08,6,Fracture,Referred,58662,34039,24623,4.9
+ADM0022,P0003,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Emergency,ICU,2024-04-27,2024-05-17,20,Back Pain,Referred,112193,58160,54033,4.0
+ADM0023,P0267,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Emergency,ICU,2023-02-28,2023-03-06,6,Hernia Repair,Discharged,136911,55424,81487,4.2
+ADM0024,P0185,City General Hospital,Pediatrics,Dr. Priya Sharma,Referral,Semi-Private,2023-06-11,2023-06-14,3,Ear Infection,Discharged,88123,0,88123,3.8
+ADM0025,P0378,City General Hospital,Orthopedics,Dr. Nadia Hussain,Elective,Private Room,2024-07-16,2024-07-26,10,Fracture,Discharged,177265,143896,33369,3.6
+ADM0026,P0207,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Elective,ICU,2023-06-29,2023-07-13,14,Heart Failure,Under Treatment,139873,60505,79368,4.2
+ADM0027,P0495,Valley Care Hospital,Oncology,Dr. Maria Lopez,Referral,Semi-Private,2024-05-10,2024-05-18,8,Breast Cancer,Referred,164821,0,164821,2.8
+ADM0028,P0035,St. Mary Medical Center,Oncology,Dr. David Lee,Referral,Private Room,2024-11-24,2024-12-02,8,Lung Cancer,Under Treatment,157735,130912,26823,2.7
+ADM0029,P0345,City General Hospital,Emergency,Dr. Fatima Zahra,Emergency,General Ward,2024-07-21,2024-07-27,6,Respiratory Failure,Discharged,107435,53541,53894,3.1
+ADM0030,P0124,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Emergency,ICU,2023-08-23,2023-08-30,7,Laparoscopy,Recovered,105364,59026,46338,4.4
+ADM0031,P0278,Metro Community Hospital,Cardiology,Dr. Sara Malik,Emergency,Private Room,2024-01-16,2024-02-05,20,Arrhythmia,Discharged,151535,119856,31679,4.4
+ADM0032,P0066,Valley Care Hospital,Cardiology,Dr. Sara Malik,Elective,General Ward,2024-03-09,2024-03-25,16,Arrhythmia,Recovered,145874,0,145874,4.2
+ADM0033,P0236,City General Hospital,Emergency,Dr. Fatima Zahra,Emergency,Private Room,2023-01-13,2023-01-20,7,Poisoning,Under Treatment,99154,54182,44972,3.7
+ADM0034,P0314,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Elective,Semi-Private,2023-07-08,2023-07-24,16,Cardiac Arrest,Referred,130921,93650,37271,2.9
+ADM0035,P0068,City General Hospital,Pediatrics,Dr. Ali Raza,Elective,ICU,2023-10-04,2023-10-12,8,Asthma,Referred,128431,62704,65727,3.7
+ADM0036,P0458,Metro Community Hospital,Emergency,Dr. Ryan Scott,Emergency,General Ward,2023-11-04,2023-11-13,9,Cardiac Arrest,Referred,124541,72144,52397,4.6
+ADM0037,P0050,Sunrise Health Clinic,Gynecology,Dr. Susan Park,Elective,ICU,2023-09-24,2023-10-06,12,Endometriosis,Recovered,127983,104860,23123,3.4
+ADM0038,P0348,Valley Care Hospital,Pediatrics,Dr. Priya Sharma,Elective,Private Room,2024-08-12,2024-09-02,21,Ear Infection,Referred,166219,139743,26476,4.7
+ADM0039,P0196,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Referral,Semi-Private,2024-10-08,2024-10-13,5,Appendectomy,Recovered,83994,68695,15299,2.9
+ADM0040,P0117,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Elective,Semi-Private,2024-10-30,2024-11-09,10,Cardiac Arrest,Referred,158671,0,158671,3.5
+ADM0041,P0095,St. Mary Medical Center,Cardiology,Dr. Ahmed Khan,Elective,ICU,2023-08-29,2023-09-07,9,Hypertension,Recovered,178591,77871,100720,4.8
+ADM0042,P0243,City General Hospital,Cardiology,Dr. Ahmed Khan,Emergency,Semi-Private,2024-02-11,2024-02-28,17,Heart Failure,Discharged,152721,79125,73596,3.1
+ADM0043,P0146,St. Mary Medical Center,Gynecology,Dr. Susan Park,Elective,Semi-Private,2023-05-15,2023-06-01,17,Prenatal Care,Referred,68228,47664,20564,2.8
+ADM0044,P0486,Valley Care Hospital,Neurology,Dr. Omar Farooq,Referral,Private Room,2024-09-03,2024-09-18,15,Epilepsy,Referred,185812,0,185812,3.8
+ADM0045,P0413,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,ICU,2023-11-12,2023-11-24,12,Fracture,Under Treatment,105185,0,105185,3.2
+ADM0046,P0274,Metro Community Hospital,Cardiology,Dr. Ahmed Khan,Emergency,Private Room,2024-05-03,2024-05-13,10,Coronary Artery Disease,Referred,75923,57632,18291,4.7
+ADM0047,P0224,St. Mary Medical Center,Oncology,Dr. David Lee,Elective,ICU,2023-06-17,2023-07-08,21,Leukemia,Discharged,159255,0,159255,3.8
+ADM0048,P0410,Sunrise Health Clinic,General Surgery,Dr. Michael Torres,Emergency,General Ward,2024-10-26,2024-11-13,18,Gallbladder Removal,Recovered,106625,0,106625,4.1
+ADM0049,P0317,Sunrise Health Clinic,Gynecology,Dr. Zara Ahmed,Referral,ICU,2024-12-18,2024-12-31,13,Uterine Fibroid,Recovered,124208,50767,73441,3.2
+ADM0050,P0065,City General Hospital,Gynecology,Dr. Susan Park,Elective,Semi-Private,2023-08-27,2023-08-30,3,Prenatal Care,Referred,47795,23789,24006,4.2
+ADM0051,P0017,City General Hospital,Emergency,Dr. Fatima Zahra,Emergency,General Ward,2023-05-30,2023-06-01,2,Cardiac Arrest,Referred,83561,36109,47452,4.6
+ADM0052,P0063,Metro Community Hospital,Pediatrics,Dr. Priya Sharma,Referral,ICU,2024-03-29,2024-04-06,8,Asthma,Referred,133299,0,133299,3.5
+ADM0053,P0493,Sunrise Health Clinic,General Surgery,Dr. Michael Torres,Elective,Semi-Private,2023-06-12,2023-07-03,21,Gallbladder Removal,Discharged,209383,172079,37304,3.4
+ADM0054,P0027,City General Hospital,Pediatrics,Dr. Ali Raza,Elective,ICU,2023-08-30,2023-09-20,21,Ear Infection,Discharged,117320,0,117320,2.5
+ADM0055,P0022,Valley Care Hospital,Gynecology,Dr. Zara Ahmed,Referral,Private Room,2023-06-08,2023-06-20,12,PCOS,Recovered,151177,71199,79978,3.4
+ADM0056,P0079,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Elective,General Ward,2024-05-14,2024-05-22,8,Knee Replacement,Referred,114643,79114,35529,3.4
+ADM0057,P0069,City General Hospital,General Surgery,Dr. Michael Torres,Referral,General Ward,2024-05-11,2024-05-26,15,Gallbladder Removal,Under Treatment,155774,111171,44603,4.3
+ADM0058,P0141,City General Hospital,Neurology,Dr. Omar Farooq,Elective,ICU,2024-06-27,2024-07-02,5,Parkinson Disease,Discharged,109869,56968,52901,4.7
+ADM0059,P0318,Valley Care Hospital,Emergency,Dr. Fatima Zahra,Emergency,Semi-Private,2023-09-02,2023-09-13,11,Poisoning,Under Treatment,159734,133414,26320,3.3
+ADM0060,P0329,City General Hospital,Emergency,Dr. Ryan Scott,Emergency,ICU,2023-04-09,2023-04-26,17,Poisoning,Recovered,134089,104031,30058,3.7
+ADM0061,P0051,Valley Care Hospital,Cardiology,Dr. Sara Malik,Emergency,Private Room,2024-10-19,2024-11-01,13,Coronary Artery Disease,Recovered,166777,113540,53237,2.5
+ADM0062,P0472,Metro Community Hospital,Pediatrics,Dr. Priya Sharma,Referral,Semi-Private,2023-03-23,2023-04-07,15,Malnutrition,Recovered,169147,0,169147,4.6
+ADM0063,P0137,City General Hospital,Cardiology,Dr. Ahmed Khan,Referral,Semi-Private,2023-11-08,2023-11-11,3,Coronary Artery Disease,Discharged,68011,30302,37709,3.8
+ADM0064,P0128,Valley Care Hospital,Neurology,Dr. Omar Farooq,Referral,Semi-Private,2024-07-25,2024-08-08,14,Parkinson Disease,Recovered,183182,125916,57266,2.9
+ADM0065,P0093,Valley Care Hospital,Oncology,Dr. Maria Lopez,Elective,Private Room,2023-12-12,2023-12-18,6,Colon Cancer,Referred,126521,0,126521,4.4
+ADM0066,P0221,Valley Care Hospital,Emergency,Dr. Fatima Zahra,Elective,Semi-Private,2023-09-04,2023-09-23,19,Respiratory Failure,Referred,153209,114075,39134,2.5
+ADM0067,P0018,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Emergency,General Ward,2023-01-17,2023-02-03,17,Gallbladder Removal,Recovered,70537,0,70537,4.4
+ADM0068,P0483,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Elective,General Ward,2024-06-07,2024-06-25,18,Hernia Repair,Under Treatment,148922,65887,83035,3.4
+ADM0069,P0299,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Referral,ICU,2023-09-20,2023-09-30,10,Malnutrition,Referred,79109,51902,27207,2.9
+ADM0070,P0423,Valley Care Hospital,Orthopedics,Dr. James Wright,Emergency,Private Room,2024-10-19,2024-10-29,10,Arthritis,Referred,93944,61940,32004,3.5
+ADM0071,P0445,St. Mary Medical Center,Orthopedics,Dr. James Wright,Elective,ICU,2024-10-30,2024-11-19,20,Arthritis,Discharged,132949,91002,41947,3.3
+ADM0072,P0358,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Emergency,Semi-Private,2023-02-21,2023-03-06,13,Malnutrition,Referred,151257,99658,51599,2.9
+ADM0073,P0173,Metro Community Hospital,Orthopedics,Dr. James Wright,Elective,Semi-Private,2024-08-08,2024-08-10,2,Fracture,Discharged,107077,0,107077,3.7
+ADM0074,P0102,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Emergency,ICU,2024-10-29,2024-11-17,19,Prenatal Care,Referred,137528,116718,20810,3.3
+ADM0075,P0474,City General Hospital,Orthopedics,Dr. Nadia Hussain,Referral,ICU,2024-11-18,2024-12-02,14,Arthritis,Discharged,125447,60932,64515,5.0
+ADM0076,P0316,Valley Care Hospital,Gynecology,Dr. Susan Park,Emergency,ICU,2023-05-30,2023-06-14,15,PCOS,Recovered,86531,42388,44143,3.1
+ADM0077,P0318,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Emergency,Private Room,2023-01-15,2023-01-26,11,Stroke,Discharged,155796,83710,72086,3.0
+ADM0078,P0268,Valley Care Hospital,General Surgery,Dr. Michael Torres,Elective,ICU,2024-05-09,2024-05-29,20,Gallbladder Removal,Discharged,204243,145919,58324,2.7
+ADM0079,P0103,City General Hospital,General Surgery,Dr. Layla Hassan,Emergency,ICU,2024-04-21,2024-05-12,21,Gallbladder Removal,Referred,85185,59388,25797,3.1
+ADM0080,P0195,Sunrise Health Clinic,Orthopedics,Dr. Nadia Hussain,Referral,ICU,2024-05-11,2024-05-31,20,Knee Replacement,Discharged,134816,65992,68824,4.8
+ADM0081,P0157,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Emergency,Private Room,2024-02-07,2024-02-13,6,Trauma,Under Treatment,56583,31594,24989,4.7
+ADM0082,P0456,Valley Care Hospital,Cardiology,Dr. Ahmed Khan,Referral,Semi-Private,2023-10-14,2023-10-22,8,Coronary Artery Disease,Referred,72955,50749,22206,3.1
+ADM0083,P0079,Sunrise Health Clinic,Oncology,Dr. David Lee,Referral,General Ward,2024-09-11,2024-09-22,11,Lung Cancer,Under Treatment,116069,57227,58842,4.2
+ADM0084,P0461,Metro Community Hospital,Neurology,Dr. Emily Chen,Emergency,Private Room,2023-05-29,2023-06-19,21,Stroke,Recovered,155013,66736,88277,4.4
+ADM0085,P0451,Metro Community Hospital,Oncology,Dr. Maria Lopez,Emergency,General Ward,2023-11-07,2023-11-22,15,Breast Cancer,Discharged,203273,166676,36597,3.0
+ADM0086,P0391,Valley Care Hospital,General Surgery,Dr. Michael Torres,Elective,ICU,2024-08-03,2024-08-23,20,Laparoscopy,Discharged,115827,58366,57461,3.8
+ADM0087,P0310,Sunrise Health Clinic,Gynecology,Dr. Zara Ahmed,Emergency,Semi-Private,2023-07-08,2023-07-21,13,PCOS,Under Treatment,123760,58626,65134,4.9
+ADM0088,P0114,St. Mary Medical Center,Pediatrics,Dr. Priya Sharma,Emergency,Semi-Private,2023-03-09,2023-03-15,6,Ear Infection,Recovered,115832,82187,33645,4.0
+ADM0089,P0423,Sunrise Health Clinic,Oncology,Dr. David Lee,Referral,ICU,2024-02-08,2024-02-28,20,Leukemia,Referred,211697,135755,75942,4.6
+ADM0090,P0022,Valley Care Hospital,Pediatrics,Dr. Ali Raza,Emergency,Private Room,2024-07-04,2024-07-17,13,Ear Infection,Referred,163838,94097,69741,4.7
+ADM0091,P0397,Metro Community Hospital,General Surgery,Dr. Michael Torres,Elective,Semi-Private,2023-06-20,2023-07-04,14,Appendectomy,Recovered,99803,70908,28895,2.9
+ADM0092,P0300,Metro Community Hospital,Neurology,Dr. Emily Chen,Elective,ICU,2024-02-28,2024-03-10,11,Epilepsy,Under Treatment,101466,61301,40165,4.2
+ADM0093,P0465,City General Hospital,Neurology,Dr. Omar Farooq,Referral,General Ward,2023-04-04,2023-04-08,4,Parkinson Disease,Referred,140679,79248,61431,2.6
+ADM0094,P0088,Valley Care Hospital,Emergency,Dr. Ryan Scott,Elective,Private Room,2024-11-06,2024-11-11,5,Cardiac Arrest,Referred,54147,0,54147,3.2
+ADM0095,P0093,St. Mary Medical Center,Orthopedics,Dr. James Wright,Elective,Semi-Private,2023-07-27,2023-07-28,1,Back Pain,Recovered,126216,0,126216,4.0
+ADM0096,P0253,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Emergency,Private Room,2024-08-25,2024-09-10,16,Asthma,Recovered,142855,62247,80608,3.0
+ADM0097,P0029,City General Hospital,Emergency,Dr. Fatima Zahra,Emergency,ICU,2023-05-29,2023-05-31,2,Trauma,Referred,133230,89461,43769,5.0
+ADM0098,P0083,Valley Care Hospital,General Surgery,Dr. Michael Torres,Elective,Private Room,2024-11-07,2024-11-27,20,Appendectomy,Recovered,193848,0,193848,4.4
+ADM0099,P0166,Metro Community Hospital,Emergency,Dr. Ryan Scott,Referral,Private Room,2023-03-11,2023-03-25,14,Cardiac Arrest,Referred,129064,78970,50094,3.8
+ADM0100,P0357,Valley Care Hospital,Pediatrics,Dr. Ali Raza,Elective,Private Room,2023-03-01,2023-03-05,4,Ear Infection,Under Treatment,132105,84286,47819,3.1
+ADM0101,P0295,St. Mary Medical Center,Emergency,Dr. Fatima Zahra,Emergency,General Ward,2024-09-21,2024-10-10,19,Cardiac Arrest,Discharged,184326,126141,58185,2.5
+ADM0102,P0013,City General Hospital,Gynecology,Dr. Zara Ahmed,Emergency,General Ward,2023-08-01,2023-08-21,20,Prenatal Care,Under Treatment,118633,65273,53360,4.5
+ADM0103,P0158,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Elective,ICU,2024-07-17,2024-07-28,11,Hernia Repair,Discharged,139362,98756,40606,3.3
+ADM0104,P0174,Metro Community Hospital,Gynecology,Dr. Susan Park,Elective,Semi-Private,2023-02-06,2023-02-27,21,PCOS,Under Treatment,95426,65103,30323,3.9
+ADM0105,P0348,Valley Care Hospital,Emergency,Dr. Fatima Zahra,Emergency,General Ward,2024-07-02,2024-07-03,1,Cardiac Arrest,Recovered,67524,37089,30435,3.3
+ADM0106,P0193,Valley Care Hospital,Neurology,Dr. Omar Farooq,Referral,Private Room,2024-09-12,2024-09-25,13,Migraine,Under Treatment,86777,0,86777,3.5
+ADM0107,P0255,Sunrise Health Clinic,Pediatrics,Dr. Priya Sharma,Emergency,General Ward,2024-04-07,2024-04-17,10,Fever,Referred,89915,43047,46868,3.8
+ADM0108,P0410,Valley Care Hospital,Gynecology,Dr. Susan Park,Elective,General Ward,2023-06-07,2023-06-14,7,PCOS,Discharged,108921,0,108921,3.0
+ADM0109,P0019,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Elective,Semi-Private,2024-12-31,2024-12-31,1,PCOS,Recovered,35089,28757,6332,3.8
+ADM0110,P0338,City General Hospital,General Surgery,Dr. Layla Hassan,Elective,Private Room,2024-08-14,2024-08-24,10,Laparoscopy,Recovered,135751,66552,69199,3.2
+ADM0111,P0081,City General Hospital,General Surgery,Dr. Michael Torres,Referral,Private Room,2023-01-16,2023-02-05,20,Gallbladder Removal,Under Treatment,145575,0,145575,2.9
+ADM0112,P0361,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Emergency,General Ward,2023-09-08,2023-09-14,6,Appendectomy,Referred,60606,48576,12030,4.8
+ADM0113,P0026,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Referral,Private Room,2023-02-25,2023-02-28,3,Arthritis,Under Treatment,92438,66288,26150,4.5
+ADM0114,P0366,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,Semi-Private,2024-08-04,2024-08-09,5,Arthritis,Referred,79743,64900,14843,3.7
+ADM0115,P0486,St. Mary Medical Center,Pediatrics,Dr. Priya Sharma,Elective,Semi-Private,2024-09-23,2024-10-02,9,Ear Infection,Recovered,97744,0,97744,2.7
+ADM0116,P0058,Metro Community Hospital,Emergency,Dr. Ryan Scott,Referral,ICU,2024-04-17,2024-04-23,6,Respiratory Failure,Recovered,96721,64996,31725,3.3
+ADM0117,P0333,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Referral,General Ward,2024-06-29,2024-07-14,15,Back Pain,Referred,136780,69397,67383,2.7
+ADM0118,P0107,Metro Community Hospital,Oncology,Dr. David Lee,Referral,ICU,2024-08-03,2024-08-14,11,Leukemia,Recovered,138254,0,138254,4.0
+ADM0119,P0238,Valley Care Hospital,Emergency,Dr. Ryan Scott,Referral,Semi-Private,2023-04-10,2023-04-25,15,Cardiac Arrest,Referred,97614,42103,55511,4.1
+ADM0120,P0032,St. Mary Medical Center,Orthopedics,Dr. James Wright,Emergency,General Ward,2023-05-23,2023-06-11,19,Back Pain,Under Treatment,228324,0,228324,3.5
+ADM0121,P0296,St. Mary Medical Center,Gynecology,Dr. Susan Park,Elective,Private Room,2023-07-30,2023-08-10,11,PCOS,Recovered,127255,103196,24059,4.0
+ADM0122,P0262,St. Mary Medical Center,Oncology,Dr. Maria Lopez,Emergency,Private Room,2023-10-29,2023-10-31,2,Breast Cancer,Discharged,86813,34758,52055,3.6
+ADM0123,P0303,Sunrise Health Clinic,Oncology,Dr. David Lee,Referral,General Ward,2024-12-29,2024-12-31,2,Leukemia,Discharged,89286,0,89286,3.0
+ADM0124,P0197,Metro Community Hospital,Emergency,Dr. Ryan Scott,Emergency,Semi-Private,2023-06-07,2023-06-17,10,Respiratory Failure,Discharged,129439,52451,76988,2.7
+ADM0125,P0329,Metro Community Hospital,Oncology,Dr. Maria Lopez,Referral,Semi-Private,2024-12-13,2024-12-31,18,Leukemia,Under Treatment,133467,80678,52789,3.1
+ADM0126,P0218,Valley Care Hospital,Cardiology,Dr. Sara Malik,Emergency,ICU,2024-05-25,2024-06-02,8,Arrhythmia,Under Treatment,147596,86326,61270,2.8
+ADM0127,P0247,St. Mary Medical Center,Orthopedics,Dr. James Wright,Emergency,Semi-Private,2024-06-23,2024-07-02,9,Knee Replacement,Under Treatment,111259,70706,40553,4.0
+ADM0128,P0463,Valley Care Hospital,Emergency,Dr. Fatima Zahra,Elective,Private Room,2023-01-12,2023-01-28,16,Cardiac Arrest,Under Treatment,148045,97456,50589,2.9
+ADM0129,P0356,Valley Care Hospital,General Surgery,Dr. Michael Torres,Referral,Private Room,2023-09-24,2023-09-26,2,Appendectomy,Under Treatment,122723,58427,64296,3.7
+ADM0130,P0065,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Referral,ICU,2023-09-16,2023-09-21,5,Fracture,Discharged,120054,94367,25687,4.1
+ADM0131,P0190,Sunrise Health Clinic,Neurology,Dr. Emily Chen,Elective,ICU,2024-12-18,2024-12-26,8,Stroke,Discharged,124675,79458,45217,4.6
+ADM0132,P0386,Metro Community Hospital,Oncology,Dr. David Lee,Referral,Private Room,2023-09-01,2023-09-16,15,Breast Cancer,Under Treatment,165825,0,165825,4.4
+ADM0133,P0060,St. Mary Medical Center,Cardiology,Dr. Ahmed Khan,Elective,Semi-Private,2024-04-20,2024-05-03,13,Arrhythmia,Under Treatment,134145,98700,35445,2.9
+ADM0134,P0446,City General Hospital,Oncology,Dr. David Lee,Emergency,Private Room,2023-10-23,2023-11-07,15,Leukemia,Under Treatment,131197,109260,21937,3.3
+ADM0135,P0137,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Referral,General Ward,2024-11-01,2024-11-20,19,Arthritis,Discharged,172032,121090,50942,3.3
+ADM0136,P0006,City General Hospital,Cardiology,Dr. Sara Malik,Elective,General Ward,2023-01-13,2023-01-27,14,Heart Failure,Under Treatment,73966,0,73966,3.0
+ADM0137,P0013,City General Hospital,Orthopedics,Dr. James Wright,Emergency,General Ward,2024-08-31,2024-09-07,7,Back Pain,Discharged,130456,93750,36706,4.7
+ADM0138,P0357,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Elective,Private Room,2023-10-29,2023-11-13,15,Epilepsy,Discharged,167791,101354,66437,4.5
+ADM0139,P0142,Metro Community Hospital,Cardiology,Dr. Sara Malik,Emergency,Semi-Private,2024-02-02,2024-02-13,11,Hypertension,Referred,86452,0,86452,4.9
+ADM0140,P0103,St. Mary Medical Center,Oncology,Dr. David Lee,Referral,ICU,2024-10-22,2024-11-07,16,Leukemia,Under Treatment,95350,71123,24227,2.8
+ADM0141,P0038,Valley Care Hospital,Orthopedics,Dr. James Wright,Emergency,Semi-Private,2023-09-14,2023-09-29,15,Arthritis,Discharged,67402,46763,20639,4.3
+ADM0142,P0464,Valley Care Hospital,Oncology,Dr. Maria Lopez,Referral,ICU,2023-01-04,2023-01-21,17,Lung Cancer,Recovered,194663,119749,74914,3.5
+ADM0143,P0353,City General Hospital,Gynecology,Dr. Susan Park,Elective,ICU,2024-08-03,2024-08-21,18,PCOS,Under Treatment,152226,0,152226,3.8
+ADM0144,P0492,City General Hospital,Emergency,Dr. Fatima Zahra,Referral,General Ward,2024-04-15,2024-04-25,10,Cardiac Arrest,Referred,130792,84951,45841,4.7
+ADM0145,P0323,Metro Community Hospital,Emergency,Dr. Ryan Scott,Emergency,General Ward,2023-03-28,2023-04-18,21,Respiratory Failure,Referred,146298,67732,78566,2.7
+ADM0146,P0277,Metro Community Hospital,General Surgery,Dr. Michael Torres,Elective,ICU,2024-06-30,2024-07-15,15,Laparoscopy,Recovered,63699,0,63699,3.0
+ADM0147,P0335,Valley Care Hospital,Gynecology,Dr. Susan Park,Referral,ICU,2023-06-02,2023-06-21,19,Endometriosis,Recovered,81266,59402,21864,3.1
+ADM0148,P0333,City General Hospital,Neurology,Dr. Omar Farooq,Referral,General Ward,2023-06-26,2023-07-17,21,Migraine,Recovered,135699,102746,32953,2.8
+ADM0149,P0305,City General Hospital,Pediatrics,Dr. Priya Sharma,Elective,ICU,2023-07-27,2023-08-10,14,Asthma,Under Treatment,156729,131964,24765,4.6
+ADM0150,P0407,City General Hospital,Pediatrics,Dr. Priya Sharma,Emergency,Private Room,2024-08-30,2024-09-05,6,Asthma,Referred,75010,39249,35761,3.1
+ADM0151,P0298,St. Mary Medical Center,Cardiology,Dr. Sara Malik,Emergency,ICU,2023-04-13,2023-05-04,21,Hypertension,Discharged,207983,97958,110025,4.8
+ADM0152,P0362,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Referral,Semi-Private,2024-12-11,2024-12-27,16,Laparoscopy,Discharged,149410,69384,80026,4.8
+ADM0153,P0313,Valley Care Hospital,Cardiology,Dr. Sara Malik,Elective,Semi-Private,2023-07-04,2023-07-20,16,Hypertension,Discharged,165194,0,165194,3.0
+ADM0154,P0272,Valley Care Hospital,Orthopedics,Dr. James Wright,Elective,ICU,2024-01-06,2024-01-24,18,Fracture,Recovered,151927,0,151927,4.5
+ADM0155,P0351,Metro Community Hospital,Gynecology,Dr. Susan Park,Emergency,Semi-Private,2023-06-30,2023-07-06,6,Prenatal Care,Under Treatment,116574,80458,36116,4.0
+ADM0156,P0456,City General Hospital,Gynecology,Dr. Susan Park,Referral,ICU,2023-04-17,2023-04-19,2,PCOS,Discharged,97489,73455,24034,4.3
+ADM0157,P0304,Metro Community Hospital,Emergency,Dr. Ryan Scott,Emergency,Semi-Private,2023-07-23,2023-08-03,11,Poisoning,Referred,94140,51472,42668,4.7
+ADM0158,P0038,Valley Care Hospital,Gynecology,Dr. Susan Park,Emergency,Semi-Private,2024-05-11,2024-05-13,2,Prenatal Care,Discharged,83648,68386,15262,3.6
+ADM0159,P0100,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Emergency,ICU,2023-07-27,2023-08-07,11,Respiratory Failure,Referred,82409,54052,28357,3.5
+ADM0160,P0390,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Referral,General Ward,2023-10-30,2023-11-19,20,Trauma,Referred,158501,0,158501,4.6
+ADM0161,P0251,Valley Care Hospital,Pediatrics,Dr. Ali Raza,Emergency,Private Room,2024-04-29,2024-05-14,15,Ear Infection,Discharged,121416,71957,49459,4.7
+ADM0162,P0303,Valley Care Hospital,Neurology,Dr. Emily Chen,Elective,Semi-Private,2023-01-06,2023-01-20,14,Parkinson Disease,Recovered,72086,0,72086,3.6
+ADM0163,P0124,Valley Care Hospital,Orthopedics,Dr. James Wright,Emergency,Semi-Private,2023-01-13,2023-01-27,14,Arthritis,Discharged,91474,48765,42709,4.3
+ADM0164,P0440,Metro Community Hospital,Cardiology,Dr. Sara Malik,Referral,Semi-Private,2024-04-19,2024-04-24,5,Hypertension,Recovered,133728,0,133728,3.5
+ADM0165,P0354,Valley Care Hospital,Emergency,Dr. Ryan Scott,Referral,ICU,2023-02-03,2023-02-13,10,Cardiac Arrest,Recovered,123543,88225,35318,3.8
+ADM0166,P0466,City General Hospital,Emergency,Dr. Fatima Zahra,Emergency,ICU,2023-04-24,2023-05-07,13,Poisoning,Discharged,132621,55488,77133,5.0
+ADM0167,P0123,Metro Community Hospital,Orthopedics,Dr. James Wright,Elective,Private Room,2024-08-17,2024-08-24,7,Arthritis,Referred,172443,0,172443,3.2
+ADM0168,P0033,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Elective,Private Room,2024-04-08,2024-04-24,16,Trauma,Discharged,178336,81182,97154,4.7
+ADM0169,P0235,City General Hospital,Orthopedics,Dr. James Wright,Referral,General Ward,2024-02-05,2024-02-11,6,Back Pain,Discharged,69000,32716,36284,4.7
+ADM0170,P0267,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Elective,General Ward,2024-03-02,2024-03-20,18,Hypertension,Recovered,102393,60315,42078,4.7
+ADM0171,P0119,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Elective,Private Room,2024-08-15,2024-08-26,11,Poisoning,Under Treatment,176062,96277,79785,2.9
+ADM0172,P0134,Metro Community Hospital,Pediatrics,Dr. Ali Raza,Elective,Private Room,2024-01-16,2024-01-26,10,Ear Infection,Discharged,162527,0,162527,4.0
+ADM0173,P0083,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Elective,General Ward,2023-06-29,2023-07-04,5,Laparoscopy,Under Treatment,55820,0,55820,3.4
+ADM0174,P0106,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Emergency,ICU,2023-12-19,2023-12-24,5,Arrhythmia,Referred,99127,83164,15963,4.4
+ADM0175,P0486,Sunrise Health Clinic,Gynecology,Dr. Susan Park,Referral,Private Room,2023-06-09,2023-06-10,1,Endometriosis,Under Treatment,135270,0,135270,4.9
+ADM0176,P0387,Valley Care Hospital,Neurology,Dr. Emily Chen,Emergency,ICU,2024-03-28,2024-04-08,11,Epilepsy,Recovered,160463,98772,61691,3.5
+ADM0177,P0431,Metro Community Hospital,Pediatrics,Dr. Ali Raza,Elective,General Ward,2024-01-01,2024-01-04,3,Fever,Recovered,73550,50646,22904,3.8
+ADM0178,P0229,Valley Care Hospital,Orthopedics,Dr. James Wright,Referral,Private Room,2024-02-08,2024-02-15,7,Back Pain,Discharged,119488,80330,39158,4.3
+ADM0179,P0219,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Referral,ICU,2024-01-17,2024-01-18,1,Poisoning,Referred,68550,36924,31626,4.4
+ADM0180,P0213,Sunrise Health Clinic,Gynecology,Dr. Zara Ahmed,Emergency,General Ward,2023-06-17,2023-07-01,14,Prenatal Care,Referred,155065,0,155065,5.0
+ADM0181,P0269,City General Hospital,Emergency,Dr. Fatima Zahra,Elective,General Ward,2024-08-27,2024-09-09,13,Respiratory Failure,Discharged,70110,0,70110,3.0
+ADM0182,P0427,Sunrise Health Clinic,Oncology,Dr. Maria Lopez,Referral,Private Room,2024-07-21,2024-08-06,16,Leukemia,Referred,127640,0,127640,3.1
+ADM0183,P0406,St. Mary Medical Center,Cardiology,Dr. Sara Malik,Elective,General Ward,2023-09-26,2023-10-06,10,Arrhythmia,Discharged,169364,103760,65604,2.6
+ADM0184,P0392,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Referral,Semi-Private,2023-03-10,2023-03-30,20,Gallbladder Removal,Referred,204176,0,204176,4.9
+ADM0185,P0419,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Referral,ICU,2024-06-08,2024-06-27,19,Fracture,Under Treatment,95694,0,95694,3.7
+ADM0186,P0355,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Emergency,Private Room,2023-06-17,2023-06-19,2,Epilepsy,Recovered,71009,48734,22275,3.8
+ADM0187,P0393,City General Hospital,Neurology,Dr. Omar Farooq,Elective,Private Room,2024-09-05,2024-09-11,6,Migraine,Under Treatment,115606,89256,26350,4.6
+ADM0188,P0007,Valley Care Hospital,Neurology,Dr. Emily Chen,Emergency,General Ward,2023-10-16,2023-10-28,12,Stroke,Discharged,173212,95811,77401,4.6
+ADM0189,P0408,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Elective,Private Room,2024-04-16,2024-04-19,3,Arthritis,Discharged,65220,53189,12031,4.5
+ADM0190,P0456,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Referral,General Ward,2024-12-27,2024-12-31,4,Poisoning,Under Treatment,64507,29245,35262,2.8
+ADM0191,P0067,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,General Ward,2024-12-08,2024-12-12,4,Knee Replacement,Recovered,46496,28731,17765,4.5
+ADM0192,P0263,Metro Community Hospital,Cardiology,Dr. Ahmed Khan,Emergency,General Ward,2023-05-02,2023-05-11,9,Coronary Artery Disease,Discharged,49457,34640,14817,4.2
+ADM0193,P0015,St. Mary Medical Center,Orthopedics,Dr. James Wright,Referral,ICU,2023-10-12,2023-10-31,19,Knee Replacement,Recovered,115114,90343,24771,3.8
+ADM0194,P0367,Sunrise Health Clinic,Pediatrics,Dr. Priya Sharma,Elective,General Ward,2023-06-25,2023-07-13,18,Ear Infection,Recovered,75607,61688,13919,3.0
+ADM0195,P0182,Metro Community Hospital,Oncology,Dr. Maria Lopez,Emergency,Semi-Private,2023-08-08,2023-08-25,17,Breast Cancer,Discharged,93534,0,93534,3.7
+ADM0196,P0185,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Elective,Semi-Private,2023-02-11,2023-02-14,3,Gallbladder Removal,Referred,82102,0,82102,3.1
+ADM0197,P0209,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Referral,ICU,2023-07-13,2023-07-16,3,Laparoscopy,Referred,110615,53171,57444,3.8
+ADM0198,P0347,City General Hospital,Orthopedics,Dr. James Wright,Referral,General Ward,2023-05-27,2023-06-09,13,Knee Replacement,Under Treatment,143218,0,143218,4.9
+ADM0199,P0174,Valley Care Hospital,Pediatrics,Dr. Priya Sharma,Referral,Private Room,2024-02-18,2024-02-22,4,Ear Infection,Under Treatment,87941,63875,24066,3.7
+ADM0200,P0309,Metro Community Hospital,Oncology,Dr. Maria Lopez,Elective,Semi-Private,2024-06-07,2024-06-16,9,Lung Cancer,Discharged,91739,41156,50583,2.6
+ADM0201,P0378,City General Hospital,Cardiology,Dr. Ahmed Khan,Elective,ICU,2024-05-25,2024-05-26,1,Hypertension,Referred,56988,40213,16775,4.5
+ADM0202,P0104,Metro Community Hospital,General Surgery,Dr. Michael Torres,Emergency,Semi-Private,2024-05-17,2024-06-03,17,Appendectomy,Referred,118489,90557,27932,3.6
+ADM0203,P0437,Metro Community Hospital,Oncology,Dr. Maria Lopez,Referral,General Ward,2024-04-15,2024-04-17,2,Leukemia,Referred,34661,24150,10511,2.8
+ADM0204,P0367,Metro Community Hospital,Oncology,Dr. Maria Lopez,Elective,General Ward,2023-04-23,2023-05-12,19,Breast Cancer,Referred,201407,130754,70653,3.2
+ADM0205,P0303,Valley Care Hospital,Oncology,Dr. David Lee,Emergency,ICU,2024-11-23,2024-12-05,12,Lung Cancer,Under Treatment,160526,0,160526,3.4
+ADM0206,P0380,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Elective,ICU,2024-01-25,2024-01-29,4,Coronary Artery Disease,Discharged,96279,0,96279,3.1
+ADM0207,P0160,City General Hospital,Orthopedics,Dr. James Wright,Elective,Semi-Private,2023-11-09,2023-11-13,4,Back Pain,Under Treatment,73132,46972,26160,2.6
+ADM0208,P0241,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Emergency,General Ward,2024-01-22,2024-02-10,19,Heart Failure,Referred,151777,67385,84392,3.8
+ADM0209,P0392,St. Mary Medical Center,Emergency,Dr. Fatima Zahra,Referral,ICU,2024-09-21,2024-10-01,10,Poisoning,Under Treatment,102168,0,102168,3.2
+ADM0210,P0153,St. Mary Medical Center,Oncology,Dr. Maria Lopez,Elective,ICU,2024-10-01,2024-10-04,3,Leukemia,Referred,150337,66544,83793,3.0
+ADM0211,P0408,Sunrise Health Clinic,Orthopedics,Dr. Nadia Hussain,Elective,Private Room,2024-05-31,2024-06-10,10,Back Pain,Discharged,132592,71733,60859,4.7
+ADM0212,P0322,Valley Care Hospital,Neurology,Dr. Omar Farooq,Referral,Semi-Private,2024-05-26,2024-06-02,7,Migraine,Discharged,162390,133508,28882,3.4
+ADM0213,P0076,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Referral,General Ward,2024-12-02,2024-12-12,10,Ear Infection,Under Treatment,115560,0,115560,4.6
+ADM0214,P0331,Sunrise Health Clinic,Neurology,Dr. Emily Chen,Emergency,General Ward,2024-12-04,2024-12-24,20,Migraine,Discharged,110769,0,110769,4.5
+ADM0215,P0159,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Emergency,Private Room,2024-07-27,2024-08-10,14,Uterine Fibroid,Recovered,116626,0,116626,3.1
+ADM0216,P0412,Valley Care Hospital,General Surgery,Dr. Michael Torres,Emergency,Private Room,2023-06-30,2023-07-21,21,Gallbladder Removal,Recovered,119499,89864,29635,4.8
+ADM0217,P0209,City General Hospital,Emergency,Dr. Ryan Scott,Referral,Private Room,2024-02-11,2024-02-16,5,Respiratory Failure,Recovered,70795,51717,19078,3.1
+ADM0218,P0063,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Emergency,General Ward,2024-08-21,2024-09-03,13,Trauma,Discharged,171526,0,171526,3.0
+ADM0219,P0141,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Elective,Semi-Private,2023-09-18,2023-10-07,19,Endometriosis,Discharged,110413,62783,47630,4.9
+ADM0220,P0451,Sunrise Health Clinic,Neurology,Dr. Emily Chen,Referral,ICU,2024-05-01,2024-05-13,12,Stroke,Under Treatment,107798,90018,17780,3.9
+ADM0221,P0159,City General Hospital,Emergency,Dr. Fatima Zahra,Elective,Private Room,2024-07-01,2024-07-09,8,Trauma,Discharged,99971,0,99971,3.2
+ADM0222,P0441,Metro Community Hospital,Neurology,Dr. Omar Farooq,Emergency,Semi-Private,2024-10-08,2024-10-19,11,Parkinson Disease,Referred,173418,130964,42454,4.8
+ADM0223,P0171,City General Hospital,Oncology,Dr. Maria Lopez,Elective,ICU,2023-06-14,2023-06-23,9,Breast Cancer,Discharged,112009,66017,45992,4.1
+ADM0224,P0406,City General Hospital,Neurology,Dr. Emily Chen,Emergency,General Ward,2024-02-15,2024-02-22,7,Stroke,Referred,128859,84933,43926,4.5
+ADM0225,P0164,Metro Community Hospital,Gynecology,Dr. Susan Park,Emergency,ICU,2023-05-17,2023-05-26,9,Endometriosis,Under Treatment,97625,75371,22254,3.0
+ADM0226,P0449,Valley Care Hospital,Oncology,Dr. David Lee,Emergency,Semi-Private,2023-08-18,2023-08-19,1,Lung Cancer,Under Treatment,42461,28678,13783,4.3
+ADM0227,P0087,Metro Community Hospital,Cardiology,Dr. Sara Malik,Emergency,ICU,2024-09-24,2024-10-08,14,Hypertension,Referred,133772,58870,74902,4.4
+ADM0228,P0476,Metro Community Hospital,Gynecology,Dr. Susan Park,Elective,Semi-Private,2023-05-02,2023-05-10,8,Endometriosis,Discharged,135424,111823,23601,3.6
+ADM0229,P0106,Sunrise Health Clinic,Pediatrics,Dr. Ali Raza,Elective,Private Room,2024-11-24,2024-12-01,7,Asthma,Referred,99952,75625,24327,4.8
+ADM0230,P0190,City General Hospital,Gynecology,Dr. Zara Ahmed,Referral,Semi-Private,2023-01-11,2023-01-27,16,Endometriosis,Under Treatment,114459,66260,48199,2.7
+ADM0231,P0286,City General Hospital,Cardiology,Dr. Ahmed Khan,Emergency,Private Room,2023-12-07,2023-12-15,8,Arrhythmia,Under Treatment,122199,100532,21667,4.9
+ADM0232,P0344,St. Mary Medical Center,Emergency,Dr. Fatima Zahra,Elective,Semi-Private,2024-07-26,2024-07-28,2,Poisoning,Recovered,104094,49595,54499,3.3
+ADM0233,P0272,St. Mary Medical Center,Oncology,Dr. Maria Lopez,Elective,Private Room,2023-09-24,2023-09-28,4,Leukemia,Under Treatment,67599,0,67599,4.8
+ADM0234,P0135,Valley Care Hospital,General Surgery,Dr. Michael Torres,Referral,Semi-Private,2023-11-17,2023-12-01,14,Appendectomy,Discharged,112215,95108,17107,2.9
+ADM0235,P0118,City General Hospital,Neurology,Dr. Omar Farooq,Emergency,Semi-Private,2024-04-26,2024-05-05,9,Epilepsy,Referred,92286,55039,37247,3.6
+ADM0236,P0058,City General Hospital,Neurology,Dr. Omar Farooq,Referral,General Ward,2023-12-24,2023-12-27,3,Migraine,Discharged,59729,46334,13395,3.5
+ADM0237,P0040,Metro Community Hospital,Pediatrics,Dr. Ali Raza,Elective,Private Room,2024-11-24,2024-11-28,4,Fever,Under Treatment,71583,50580,21003,2.9
+ADM0238,P0042,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Referral,Semi-Private,2024-04-09,2024-04-30,21,Prenatal Care,Discharged,159865,64364,95501,3.0
+ADM0239,P0025,Sunrise Health Clinic,General Surgery,Dr. Layla Hassan,Emergency,General Ward,2023-02-26,2023-03-01,3,Laparoscopy,Recovered,117637,51954,65683,2.6
+ADM0240,P0107,Metro Community Hospital,Neurology,Dr. Emily Chen,Emergency,Private Room,2024-02-17,2024-02-27,10,Parkinson Disease,Referred,168274,0,168274,4.3
+ADM0241,P0472,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Referral,General Ward,2023-05-15,2023-05-27,12,Laparoscopy,Referred,166276,0,166276,4.7
+ADM0242,P0244,Valley Care Hospital,General Surgery,Dr. Michael Torres,Elective,Semi-Private,2024-09-06,2024-09-20,14,Appendectomy,Recovered,98833,75602,23231,3.8
+ADM0243,P0499,St. Mary Medical Center,Gynecology,Dr. Zara Ahmed,Elective,Semi-Private,2024-10-25,2024-10-30,5,Endometriosis,Recovered,119589,0,119589,4.8
+ADM0244,P0245,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Referral,ICU,2023-05-11,2023-05-21,10,Appendectomy,Recovered,99241,52892,46349,3.8
+ADM0245,P0212,Metro Community Hospital,Orthopedics,Dr. James Wright,Referral,ICU,2024-11-07,2024-11-26,19,Knee Replacement,Referred,110175,0,110175,2.9
+ADM0246,P0094,City General Hospital,Oncology,Dr. Maria Lopez,Referral,Semi-Private,2023-03-27,2023-04-10,14,Colon Cancer,Under Treatment,158067,104995,53072,4.9
+ADM0247,P0447,St. Mary Medical Center,Neurology,Dr. Emily Chen,Elective,ICU,2023-07-09,2023-07-12,3,Migraine,Referred,142393,112808,29585,2.8
+ADM0248,P0088,Metro Community Hospital,Gynecology,Dr. Susan Park,Elective,Private Room,2024-12-09,2024-12-22,13,Endometriosis,Under Treatment,179140,0,179140,2.7
+ADM0249,P0070,St. Mary Medical Center,Cardiology,Dr. Ahmed Khan,Referral,General Ward,2023-04-25,2023-04-26,1,Arrhythmia,Discharged,116006,57325,58681,2.7
+ADM0250,P0395,St. Mary Medical Center,Gynecology,Dr. Susan Park,Elective,Semi-Private,2024-04-30,2024-05-14,14,PCOS,Referred,54195,43686,10509,4.0
+ADM0251,P0104,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Elective,Semi-Private,2024-02-06,2024-02-08,2,Gallbladder Removal,Recovered,64856,44341,20515,3.7
+ADM0252,P0249,St. Mary Medical Center,Gynecology,Dr. Susan Park,Referral,ICU,2023-03-04,2023-03-21,17,Prenatal Care,Referred,98940,0,98940,4.7
+ADM0253,P0060,Valley Care Hospital,Gynecology,Dr. Susan Park,Referral,General Ward,2024-10-23,2024-11-04,12,Endometriosis,Under Treatment,138050,56513,81537,3.6
+ADM0254,P0260,Valley Care Hospital,Pediatrics,Dr. Priya Sharma,Emergency,Private Room,2024-12-02,2024-12-13,11,Ear Infection,Referred,178333,128728,49605,4.6
+ADM0255,P0345,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Emergency,General Ward,2023-06-15,2023-07-05,20,Poisoning,Discharged,139994,103199,36795,4.0
+ADM0256,P0052,Metro Community Hospital,Oncology,Dr. Maria Lopez,Elective,Private Room,2023-11-07,2023-11-15,8,Lung Cancer,Discharged,76232,64772,11460,4.6
+ADM0257,P0458,City General Hospital,Cardiology,Dr. Ahmed Khan,Elective,Private Room,2023-12-12,2023-12-26,14,Heart Failure,Under Treatment,86166,39146,47020,4.4
+ADM0258,P0395,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Elective,ICU,2024-12-07,2024-12-24,17,Appendectomy,Recovered,150884,108317,42567,4.6
+ADM0259,P0022,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Referral,Semi-Private,2024-10-07,2024-10-11,4,Knee Replacement,Discharged,64342,46825,17517,4.1
+ADM0260,P0172,City General Hospital,Neurology,Dr. Omar Farooq,Elective,Private Room,2023-07-26,2023-08-10,15,Stroke,Recovered,166433,67067,99366,3.2
+ADM0261,P0367,Sunrise Health Clinic,Oncology,Dr. David Lee,Emergency,Semi-Private,2024-10-06,2024-10-14,8,Leukemia,Referred,98240,62711,35529,4.7
+ADM0262,P0488,City General Hospital,Emergency,Dr. Ryan Scott,Emergency,Private Room,2024-03-29,2024-04-03,5,Cardiac Arrest,Referred,140465,107148,33317,5.0
+ADM0263,P0085,City General Hospital,Oncology,Dr. David Lee,Referral,Private Room,2024-02-07,2024-02-09,2,Leukemia,Referred,128785,103817,24968,4.7
+ADM0264,P0359,Sunrise Health Clinic,General Surgery,Dr. Michael Torres,Referral,Semi-Private,2023-12-19,2023-12-20,1,Laparoscopy,Discharged,74965,0,74965,4.7
+ADM0265,P0320,Sunrise Health Clinic,Gynecology,Dr. Susan Park,Elective,General Ward,2024-10-26,2024-11-08,13,Prenatal Care,Discharged,160652,70354,90298,2.7
+ADM0266,P0283,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Emergency,Private Room,2023-12-15,2024-01-05,21,Laparoscopy,Recovered,72636,58156,14480,4.3
+ADM0267,P0431,Sunrise Health Clinic,Emergency,Dr. Ryan Scott,Elective,Private Room,2024-10-04,2024-10-21,17,Trauma,Referred,96333,71330,25003,3.3
+ADM0268,P0121,Sunrise Health Clinic,Pediatrics,Dr. Ali Raza,Referral,Semi-Private,2023-11-03,2023-11-13,10,Asthma,Recovered,178509,0,178509,3.3
+ADM0269,P0299,Sunrise Health Clinic,Pediatrics,Dr. Ali Raza,Emergency,ICU,2024-04-10,2024-04-14,4,Ear Infection,Discharged,72500,56028,16472,3.7
+ADM0270,P0229,Sunrise Health Clinic,Orthopedics,Dr. Nadia Hussain,Elective,Semi-Private,2024-11-24,2024-12-11,17,Back Pain,Referred,153477,97232,56245,4.2
+ADM0271,P0486,Metro Community Hospital,Gynecology,Dr. Susan Park,Emergency,ICU,2023-06-16,2023-06-21,5,Uterine Fibroid,Referred,104884,0,104884,3.7
+ADM0272,P0383,Valley Care Hospital,Neurology,Dr. Omar Farooq,Referral,Private Room,2024-01-14,2024-01-18,4,Migraine,Discharged,136472,61365,75107,2.8
+ADM0273,P0157,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Emergency,Private Room,2023-10-29,2023-11-14,16,Cardiac Arrest,Discharged,79953,37095,42858,3.0
+ADM0274,P0379,City General Hospital,Gynecology,Dr. Susan Park,Referral,Semi-Private,2023-05-06,2023-05-24,18,Prenatal Care,Referred,95205,55972,39233,3.7
+ADM0275,P0369,St. Mary Medical Center,Neurology,Dr. Emily Chen,Referral,Private Room,2024-05-31,2024-06-21,21,Migraine,Referred,172555,120832,51723,3.5
+ADM0276,P0461,Sunrise Health Clinic,Oncology,Dr. David Lee,Emergency,ICU,2024-07-07,2024-07-09,2,Colon Cancer,Recovered,128423,67399,61024,4.1
+ADM0277,P0044,Valley Care Hospital,Pediatrics,Dr. Priya Sharma,Referral,ICU,2024-07-08,2024-07-27,19,Fever,Discharged,190899,121181,69718,4.9
+ADM0278,P0141,St. Mary Medical Center,Pediatrics,Dr. Priya Sharma,Elective,ICU,2024-12-23,2024-12-31,8,Ear Infection,Recovered,116439,74532,41907,3.3
+ADM0279,P0093,City General Hospital,Oncology,Dr. David Lee,Emergency,General Ward,2024-06-24,2024-07-05,11,Colon Cancer,Discharged,96089,0,96089,3.0
+ADM0280,P0394,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Emergency,ICU,2023-11-11,2023-11-25,14,Knee Replacement,Under Treatment,135864,91914,43950,3.5
+ADM0281,P0164,Metro Community Hospital,Neurology,Dr. Emily Chen,Referral,General Ward,2023-11-28,2023-12-07,9,Parkinson Disease,Referred,111297,47117,64180,4.9
+ADM0282,P0138,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Emergency,Private Room,2024-04-20,2024-05-08,18,Hypertension,Discharged,135194,55836,79358,4.4
+ADM0283,P0334,Sunrise Health Clinic,Neurology,Dr. Emily Chen,Emergency,Private Room,2024-08-04,2024-08-18,14,Stroke,Discharged,147728,101358,46370,3.8
+ADM0284,P0217,City General Hospital,Gynecology,Dr. Zara Ahmed,Emergency,Semi-Private,2023-01-02,2023-01-17,15,Prenatal Care,Under Treatment,170448,142739,27709,4.6
+ADM0285,P0195,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Elective,ICU,2024-08-22,2024-09-08,17,Respiratory Failure,Recovered,92099,67475,24624,4.6
+ADM0286,P0372,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Referral,Private Room,2023-08-04,2023-08-24,20,Laparoscopy,Under Treatment,165508,132037,33471,3.1
+ADM0287,P0165,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Referral,Semi-Private,2024-04-15,2024-05-05,20,Trauma,Recovered,147231,67752,79479,4.2
+ADM0288,P0212,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Referral,ICU,2024-07-05,2024-07-08,3,Endometriosis,Recovered,153963,0,153963,3.4
+ADM0289,P0417,Valley Care Hospital,Oncology,Dr. David Lee,Emergency,Semi-Private,2024-01-02,2024-01-15,13,Colon Cancer,Discharged,128106,98045,30061,3.6
+ADM0290,P0114,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Referral,General Ward,2024-11-27,2024-12-09,12,Coronary Artery Disease,Referred,103165,69745,33420,4.9
+ADM0291,P0019,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Emergency,Private Room,2024-12-21,2024-12-31,10,Laparoscopy,Discharged,67668,57039,10629,3.9
+ADM0292,P0338,City General Hospital,Neurology,Dr. Emily Chen,Referral,Private Room,2024-08-25,2024-08-30,5,Stroke,Recovered,127012,65644,61368,5.0
+ADM0293,P0355,Valley Care Hospital,General Surgery,Dr. Michael Torres,Elective,Semi-Private,2024-04-09,2024-04-10,1,Laparoscopy,Under Treatment,98242,80989,17253,2.8
+ADM0294,P0266,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Emergency,Private Room,2024-01-06,2024-01-23,17,Endometriosis,Referred,193628,0,193628,3.3
+ADM0295,P0201,Sunrise Health Clinic,Pediatrics,Dr. Priya Sharma,Emergency,General Ward,2023-03-25,2023-04-13,19,Asthma,Discharged,90545,76071,14474,3.3
+ADM0296,P0033,City General Hospital,Orthopedics,Dr. Nadia Hussain,Elective,General Ward,2024-05-06,2024-05-20,14,Knee Replacement,Referred,106274,72461,33813,3.1
+ADM0297,P0175,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Referral,Semi-Private,2024-06-16,2024-06-24,8,Hypertension,Recovered,83631,56769,26862,4.9
+ADM0298,P0470,Metro Community Hospital,Cardiology,Dr. Sara Malik,Emergency,Private Room,2023-11-17,2023-11-20,3,Arrhythmia,Recovered,129021,104972,24049,2.8
+ADM0299,P0029,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Elective,Semi-Private,2024-01-26,2024-02-08,13,Arrhythmia,Referred,109327,63956,45371,4.7
+ADM0300,P0318,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Emergency,ICU,2024-10-28,2024-10-29,1,Knee Replacement,Discharged,96308,63998,32310,4.8
+ADM0301,P0065,Sunrise Health Clinic,General Surgery,Dr. Michael Torres,Emergency,ICU,2024-03-07,2024-03-23,16,Hernia Repair,Under Treatment,185457,89699,95758,4.0
+ADM0302,P0263,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Elective,Private Room,2024-08-20,2024-09-07,18,Trauma,Discharged,161270,98582,62688,2.6
+ADM0303,P0260,Metro Community Hospital,Cardiology,Dr. Sara Malik,Emergency,Semi-Private,2023-12-19,2023-12-26,7,Arrhythmia,Under Treatment,80520,60661,19859,4.6
+ADM0304,P0290,Valley Care Hospital,Emergency,Dr. Ryan Scott,Elective,General Ward,2023-11-03,2023-11-17,14,Trauma,Discharged,92395,55847,36548,4.2
+ADM0305,P0239,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Elective,ICU,2024-05-07,2024-05-18,11,Fever,Under Treatment,152060,88216,63844,2.6
+ADM0306,P0059,Sunrise Health Clinic,Neurology,Dr. Emily Chen,Emergency,General Ward,2024-03-26,2024-04-02,7,Epilepsy,Discharged,151386,85073,66313,3.0
+ADM0307,P0135,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Emergency,ICU,2024-07-21,2024-07-29,8,Stroke,Referred,59527,28527,31000,4.1
+ADM0308,P0454,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Referral,Semi-Private,2023-08-04,2023-08-14,10,Knee Replacement,Recovered,114804,87741,27063,2.9
+ADM0309,P0474,St. Mary Medical Center,Neurology,Dr. Omar Farooq,Referral,General Ward,2023-07-16,2023-08-03,18,Migraine,Discharged,143898,78148,65750,4.6
+ADM0310,P0151,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Emergency,ICU,2023-09-11,2023-09-13,2,Parkinson Disease,Recovered,130868,103750,27118,2.9
+ADM0311,P0199,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Referral,Semi-Private,2024-06-15,2024-06-30,15,Respiratory Failure,Under Treatment,117276,66642,50634,4.0
+ADM0312,P0327,St. Mary Medical Center,Cardiology,Dr. Sara Malik,Elective,General Ward,2023-08-13,2023-08-20,7,Heart Failure,Under Treatment,105782,52718,53064,3.9
+ADM0313,P0069,Sunrise Health Clinic,Orthopedics,Dr. Nadia Hussain,Elective,Semi-Private,2024-03-31,2024-04-17,17,Back Pain,Referred,136770,57240,79530,3.5
+ADM0314,P0412,Sunrise Health Clinic,Gynecology,Dr. Zara Ahmed,Elective,ICU,2023-10-07,2023-10-20,13,Prenatal Care,Recovered,69140,34930,34210,4.5
+ADM0315,P0475,City General Hospital,Pediatrics,Dr. Ali Raza,Referral,Private Room,2023-05-02,2023-05-05,3,Malnutrition,Under Treatment,76678,37583,39095,4.4
+ADM0316,P0394,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Emergency,Private Room,2024-12-23,2024-12-31,8,Gallbladder Removal,Under Treatment,95188,69765,25423,4.5
+ADM0317,P0207,Valley Care Hospital,Oncology,Dr. David Lee,Elective,General Ward,2024-11-02,2024-11-03,1,Lung Cancer,Discharged,103898,87812,16086,3.7
+ADM0318,P0265,Metro Community Hospital,Gynecology,Dr. Susan Park,Emergency,Semi-Private,2023-12-15,2023-12-18,3,Endometriosis,Recovered,92557,54882,37675,3.4
+ADM0319,P0296,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Elective,Semi-Private,2023-01-10,2023-01-26,16,Epilepsy,Under Treatment,177926,98379,79547,4.0
+ADM0320,P0291,St. Mary Medical Center,Cardiology,Dr. Sara Malik,Elective,General Ward,2023-06-07,2023-06-18,11,Arrhythmia,Recovered,164614,110514,54100,3.8
+ADM0321,P0097,City General Hospital,Gynecology,Dr. Zara Ahmed,Referral,General Ward,2023-12-03,2023-12-22,19,PCOS,Referred,149314,65991,83323,2.6
+ADM0322,P0102,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,Private Room,2023-10-18,2023-10-25,7,Knee Replacement,Discharged,86489,55005,31484,3.3
+ADM0323,P0466,Metro Community Hospital,Oncology,Dr. David Lee,Elective,General Ward,2023-06-10,2023-06-14,4,Lung Cancer,Discharged,64356,39593,24763,3.3
+ADM0324,P0419,St. Mary Medical Center,Gynecology,Dr. Susan Park,Elective,General Ward,2024-09-10,2024-09-29,19,PCOS,Discharged,121212,0,121212,3.6
+ADM0325,P0423,Valley Care Hospital,Oncology,Dr. David Lee,Referral,ICU,2023-09-10,2023-09-27,17,Colon Cancer,Referred,138430,84040,54390,3.4
+ADM0326,P0432,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Elective,Semi-Private,2024-09-19,2024-09-25,6,Hernia Repair,Recovered,92974,74843,18131,3.5
+ADM0327,P0485,St. Mary Medical Center,Cardiology,Dr. Ahmed Khan,Referral,General Ward,2023-06-11,2023-06-20,9,Arrhythmia,Referred,141199,98839,42360,5.0
+ADM0328,P0284,Sunrise Health Clinic,Orthopedics,Dr. Nadia Hussain,Emergency,Private Room,2023-03-20,2023-03-24,4,Fracture,Recovered,126997,69430,57567,3.7
+ADM0329,P0038,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Referral,General Ward,2023-12-18,2023-12-31,13,Prenatal Care,Referred,76980,31164,45816,3.7
+ADM0330,P0035,Valley Care Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,General Ward,2024-11-03,2024-11-11,8,Knee Replacement,Recovered,141465,86556,54909,2.9
+ADM0331,P0064,St. Mary Medical Center,Oncology,Dr. Maria Lopez,Elective,General Ward,2023-03-21,2023-03-22,1,Lung Cancer,Recovered,116866,0,116866,4.7
+ADM0332,P0273,Metro Community Hospital,Pediatrics,Dr. Ali Raza,Elective,Private Room,2024-12-14,2024-12-16,2,Ear Infection,Recovered,134076,92305,41771,4.0
+ADM0333,P0025,St. Mary Medical Center,Oncology,Dr. David Lee,Emergency,Private Room,2023-09-13,2023-09-25,12,Lung Cancer,Recovered,77306,31480,45826,3.1
+ADM0334,P0452,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Referral,General Ward,2023-06-21,2023-06-23,2,Fracture,Referred,92159,70689,21470,4.8
+ADM0335,P0062,St. Mary Medical Center,Pediatrics,Dr. Priya Sharma,Emergency,Semi-Private,2023-04-19,2023-05-01,12,Asthma,Referred,83805,48688,35117,3.1
+ADM0336,P0337,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Emergency,General Ward,2024-01-13,2024-01-15,2,Gallbladder Removal,Recovered,39352,21080,18272,4.0
+ADM0337,P0324,St. Mary Medical Center,Oncology,Dr. Maria Lopez,Emergency,Private Room,2023-12-07,2023-12-13,6,Breast Cancer,Referred,151132,82078,69054,3.5
+ADM0338,P0328,Valley Care Hospital,Pediatrics,Dr. Ali Raza,Elective,General Ward,2024-08-24,2024-08-25,1,Ear Infection,Discharged,52207,38713,13494,4.0
+ADM0339,P0031,Sunrise Health Clinic,Neurology,Dr. Emily Chen,Referral,ICU,2024-05-25,2024-06-04,10,Stroke,Referred,78837,0,78837,4.3
+ADM0340,P0169,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Referral,Private Room,2023-11-22,2023-12-13,21,Migraine,Discharged,179970,114172,65798,4.6
+ADM0341,P0170,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Referral,Semi-Private,2023-07-30,2023-08-17,18,Cardiac Arrest,Discharged,91183,69359,21824,3.6
+ADM0342,P0004,Metro Community Hospital,Orthopedics,Dr. James Wright,Emergency,General Ward,2023-03-13,2023-03-20,7,Fracture,Discharged,59168,48649,10519,3.8
+ADM0343,P0219,Sunrise Health Clinic,Gynecology,Dr. Susan Park,Elective,Semi-Private,2023-06-18,2023-06-25,7,Uterine Fibroid,Under Treatment,78550,52835,25715,4.7
+ADM0344,P0247,Sunrise Health Clinic,Orthopedics,Dr. Nadia Hussain,Emergency,Semi-Private,2024-02-12,2024-02-25,13,Knee Replacement,Referred,97404,57489,39915,3.6
+ADM0345,P0043,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Elective,Semi-Private,2024-07-04,2024-07-09,5,Gallbladder Removal,Referred,124368,64147,60221,3.9
+ADM0346,P0247,Sunrise Health Clinic,Orthopedics,Dr. Nadia Hussain,Elective,Semi-Private,2023-05-20,2023-06-05,16,Back Pain,Referred,84138,33813,50325,4.9
+ADM0347,P0192,Metro Community Hospital,Oncology,Dr. David Lee,Elective,General Ward,2023-11-12,2023-12-03,21,Lung Cancer,Referred,163098,130193,32905,4.9
+ADM0348,P0395,Valley Care Hospital,Emergency,Dr. Fatima Zahra,Elective,General Ward,2024-12-27,2024-12-31,4,Poisoning,Referred,134820,96181,38639,2.6
+ADM0349,P0417,City General Hospital,Emergency,Dr. Ryan Scott,Elective,General Ward,2024-12-15,2024-12-31,16,Poisoning,Recovered,108610,65705,42905,2.8
+ADM0350,P0048,Metro Community Hospital,Oncology,Dr. Maria Lopez,Emergency,Semi-Private,2024-12-24,2024-12-31,7,Colon Cancer,Under Treatment,60433,0,60433,3.8
+ADM0351,P0273,Valley Care Hospital,Oncology,Dr. Maria Lopez,Emergency,Private Room,2023-11-12,2023-11-26,14,Lung Cancer,Referred,165565,74367,91198,4.2
+ADM0352,P0004,Metro Community Hospital,Neurology,Dr. Omar Farooq,Referral,Private Room,2023-01-02,2023-01-06,4,Parkinson Disease,Discharged,68916,40525,28391,2.9
+ADM0353,P0096,St. Mary Medical Center,Neurology,Dr. Emily Chen,Emergency,General Ward,2024-05-13,2024-05-19,6,Migraine,Discharged,106560,69817,36743,4.5
+ADM0354,P0099,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Emergency,Semi-Private,2024-03-27,2024-04-17,21,Appendectomy,Under Treatment,188648,89562,99086,2.7
+ADM0355,P0016,Metro Community Hospital,Pediatrics,Dr. Ali Raza,Referral,ICU,2024-05-11,2024-05-15,4,Fever,Discharged,30602,0,30602,3.8
+ADM0356,P0004,Valley Care Hospital,Oncology,Dr. Maria Lopez,Elective,Private Room,2024-06-16,2024-06-25,9,Colon Cancer,Under Treatment,137597,75907,61690,4.5
+ADM0357,P0482,Metro Community Hospital,Emergency,Dr. Ryan Scott,Elective,Semi-Private,2024-01-23,2024-02-12,20,Poisoning,Recovered,93208,71101,22107,4.0
+ADM0358,P0445,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Referral,General Ward,2024-01-13,2024-01-28,15,Appendectomy,Under Treatment,183502,145230,38272,2.5
+ADM0359,P0185,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Referral,ICU,2024-11-25,2024-12-10,15,Heart Failure,Referred,119754,0,119754,4.8
+ADM0360,P0483,City General Hospital,Gynecology,Dr. Zara Ahmed,Emergency,Semi-Private,2024-01-30,2024-02-09,10,PCOS,Under Treatment,147135,68333,78802,4.6
+ADM0361,P0281,St. Mary Medical Center,Gynecology,Dr. Zara Ahmed,Emergency,ICU,2024-04-01,2024-04-05,4,PCOS,Referred,116767,59365,57402,5.0
+ADM0362,P0015,Sunrise Health Clinic,Neurology,Dr. Emily Chen,Referral,General Ward,2024-01-28,2024-02-06,9,Parkinson Disease,Recovered,92445,64681,27764,4.5
+ADM0363,P0171,Valley Care Hospital,Pediatrics,Dr. Priya Sharma,Referral,Semi-Private,2024-09-07,2024-09-10,3,Asthma,Discharged,121786,98595,23191,3.1
+ADM0364,P0149,City General Hospital,Orthopedics,Dr. James Wright,Referral,Private Room,2023-04-02,2023-04-13,11,Fracture,Under Treatment,158444,116469,41975,4.9
+ADM0365,P0296,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Elective,Private Room,2023-03-05,2023-03-24,19,Coronary Artery Disease,Discharged,187834,107942,79892,2.8
+ADM0366,P0005,Sunrise Health Clinic,Gynecology,Dr. Susan Park,Emergency,ICU,2023-05-29,2023-06-08,10,Prenatal Care,Under Treatment,104920,63487,41433,3.8
+ADM0367,P0353,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Elective,Private Room,2024-12-24,2024-12-31,7,Back Pain,Recovered,134626,0,134626,5.0
+ADM0368,P0171,St. Mary Medical Center,Neurology,Dr. Omar Farooq,Referral,General Ward,2023-08-19,2023-08-21,2,Migraine,Referred,131574,95697,35877,3.3
+ADM0369,P0348,Sunrise Health Clinic,Gynecology,Dr. Zara Ahmed,Referral,Semi-Private,2024-02-05,2024-02-18,13,PCOS,Discharged,101898,53738,48160,3.3
+ADM0370,P0406,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Elective,General Ward,2024-04-13,2024-05-04,21,Coronary Artery Disease,Discharged,100690,60298,40392,4.5
+ADM0371,P0101,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Referral,General Ward,2024-08-12,2024-08-16,4,Hypertension,Recovered,140063,79759,60304,3.4
+ADM0372,P0243,City General Hospital,Neurology,Dr. Emily Chen,Referral,Semi-Private,2023-05-01,2023-05-18,17,Stroke,Recovered,180110,107205,72905,2.8
+ADM0373,P0204,Sunrise Health Clinic,Gynecology,Dr. Zara Ahmed,Elective,Semi-Private,2024-12-05,2024-12-25,20,Prenatal Care,Referred,152038,86497,65541,3.4
+ADM0374,P0062,City General Hospital,Orthopedics,Dr. Nadia Hussain,Elective,ICU,2023-05-05,2023-05-21,16,Fracture,Referred,180376,90408,89968,3.7
+ADM0375,P0331,Sunrise Health Clinic,Oncology,Dr. David Lee,Elective,ICU,2024-08-08,2024-08-13,5,Leukemia,Referred,49490,0,49490,2.7
+ADM0376,P0429,St. Mary Medical Center,Orthopedics,Dr. James Wright,Emergency,Semi-Private,2024-11-05,2024-11-09,4,Arthritis,Recovered,77699,0,77699,2.6
+ADM0377,P0295,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Referral,Private Room,2023-03-31,2023-04-18,18,Malnutrition,Discharged,161066,66964,94102,3.6
+ADM0378,P0484,St. Mary Medical Center,Cardiology,Dr. Sara Malik,Emergency,Semi-Private,2023-11-04,2023-11-06,2,Heart Failure,Under Treatment,116136,80903,35233,4.0
+ADM0379,P0262,City General Hospital,Pediatrics,Dr. Ali Raza,Emergency,General Ward,2024-11-09,2024-11-11,2,Malnutrition,Under Treatment,53820,24959,28861,2.8
+ADM0380,P0319,City General Hospital,Oncology,Dr. Maria Lopez,Elective,ICU,2024-07-17,2024-07-26,9,Colon Cancer,Referred,101126,81573,19553,4.9
+ADM0381,P0074,City General Hospital,Pediatrics,Dr. Priya Sharma,Referral,General Ward,2024-10-06,2024-10-15,9,Ear Infection,Discharged,160112,77924,82188,3.3
+ADM0382,P0404,Metro Community Hospital,Oncology,Dr. David Lee,Referral,Semi-Private,2023-01-27,2023-02-16,20,Breast Cancer,Under Treatment,104100,47478,56622,4.1
+ADM0383,P0186,Sunrise Health Clinic,Emergency,Dr. Ryan Scott,Elective,ICU,2023-05-30,2023-06-07,8,Trauma,Discharged,68398,38968,29430,3.8
+ADM0384,P0449,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Referral,Private Room,2024-05-16,2024-05-20,4,Appendectomy,Recovered,115239,75766,39473,2.9
+ADM0385,P0485,St. Mary Medical Center,Oncology,Dr. David Lee,Elective,ICU,2023-12-20,2024-01-07,18,Lung Cancer,Discharged,198432,115327,83105,2.9
+ADM0386,P0291,City General Hospital,General Surgery,Dr. Layla Hassan,Referral,Semi-Private,2024-10-16,2024-10-28,12,Hernia Repair,Referred,165451,116676,48775,5.0
+ADM0387,P0409,Valley Care Hospital,Gynecology,Dr. Zara Ahmed,Elective,ICU,2023-10-21,2023-10-30,9,Prenatal Care,Referred,130104,103644,26460,4.4
+ADM0388,P0433,City General Hospital,Orthopedics,Dr. Nadia Hussain,Referral,Semi-Private,2023-03-20,2023-03-28,8,Knee Replacement,Referred,65530,27905,37625,4.2
+ADM0389,P0478,Metro Community Hospital,Neurology,Dr. Omar Farooq,Emergency,General Ward,2024-05-24,2024-06-10,17,Migraine,Referred,191536,136766,54770,4.3
+ADM0390,P0384,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Referral,General Ward,2024-11-08,2024-11-25,17,Poisoning,Recovered,155066,104409,50657,3.4
+ADM0391,P0069,City General Hospital,Emergency,Dr. Fatima Zahra,Referral,General Ward,2024-03-08,2024-03-24,16,Trauma,Under Treatment,120722,100969,19753,3.2
+ADM0392,P0151,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Elective,Semi-Private,2023-01-03,2023-01-24,21,Appendectomy,Under Treatment,154647,126095,28552,2.5
+ADM0393,P0236,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Emergency,ICU,2023-12-29,2024-01-02,4,Respiratory Failure,Referred,46970,22723,24247,3.0
+ADM0394,P0271,Metro Community Hospital,Neurology,Dr. Omar Farooq,Emergency,Semi-Private,2023-05-07,2023-05-23,16,Parkinson Disease,Under Treatment,97420,0,97420,3.2
+ADM0395,P0220,Valley Care Hospital,Neurology,Dr. Emily Chen,Elective,Semi-Private,2023-10-03,2023-10-07,4,Migraine,Under Treatment,115740,69179,46561,4.7
+ADM0396,P0364,City General Hospital,Pediatrics,Dr. Priya Sharma,Emergency,General Ward,2023-07-14,2023-07-24,10,Asthma,Referred,57816,34081,23735,4.9
+ADM0397,P0137,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Elective,Semi-Private,2024-05-15,2024-06-02,18,Fracture,Recovered,185419,133770,51649,4.9
+ADM0398,P0406,St. Mary Medical Center,Cardiology,Dr. Ahmed Khan,Referral,Private Room,2023-06-09,2023-06-21,12,Arrhythmia,Recovered,138699,98198,40501,3.6
+ADM0399,P0149,Metro Community Hospital,General Surgery,Dr. Michael Torres,Emergency,Private Room,2023-03-26,2023-04-09,14,Appendectomy,Under Treatment,99445,72412,27033,5.0
+ADM0400,P0127,St. Mary Medical Center,Oncology,Dr. David Lee,Referral,General Ward,2024-04-30,2024-05-04,4,Lung Cancer,Recovered,147063,99267,47796,2.8
+ADM0401,P0020,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Elective,Semi-Private,2023-05-30,2023-06-13,14,Gallbladder Removal,Discharged,71952,31725,40227,3.1
+ADM0402,P0219,City General Hospital,Gynecology,Dr. Susan Park,Elective,Private Room,2024-06-06,2024-06-20,14,Endometriosis,Discharged,141529,63621,77908,3.3
+ADM0403,P0025,City General Hospital,Neurology,Dr. Omar Farooq,Elective,ICU,2023-01-01,2023-01-03,2,Parkinson Disease,Discharged,133601,66185,67416,3.1
+ADM0404,P0252,Sunrise Health Clinic,Emergency,Dr. Ryan Scott,Elective,Private Room,2023-11-08,2023-11-12,4,Cardiac Arrest,Under Treatment,57839,0,57839,3.1
+ADM0405,P0142,Valley Care Hospital,Pediatrics,Dr. Ali Raza,Emergency,General Ward,2024-01-29,2024-02-01,3,Asthma,Referred,47450,0,47450,4.8
+ADM0406,P0039,Sunrise Health Clinic,Emergency,Dr. Ryan Scott,Elective,Private Room,2024-04-30,2024-05-07,7,Cardiac Arrest,Under Treatment,125455,52655,72800,3.6
+ADM0407,P0368,Metro Community Hospital,Orthopedics,Dr. James Wright,Referral,Private Room,2023-03-11,2023-03-27,16,Fracture,Under Treatment,146089,110428,35661,2.6
+ADM0408,P0290,St. Mary Medical Center,Cardiology,Dr. Ahmed Khan,Elective,Semi-Private,2024-02-12,2024-02-28,16,Arrhythmia,Referred,181839,152234,29605,4.0
+ADM0409,P0106,City General Hospital,Neurology,Dr. Omar Farooq,Referral,Private Room,2023-06-13,2023-07-02,19,Epilepsy,Discharged,147657,59652,88005,3.2
+ADM0410,P0138,St. Mary Medical Center,Orthopedics,Dr. James Wright,Elective,General Ward,2023-08-18,2023-08-20,2,Arthritis,Recovered,100130,41813,58317,4.1
+ADM0411,P0128,Valley Care Hospital,Pediatrics,Dr. Priya Sharma,Elective,ICU,2023-04-29,2023-04-30,1,Malnutrition,Discharged,117495,78994,38501,3.5
+ADM0412,P0314,Sunrise Health Clinic,General Surgery,Dr. Layla Hassan,Emergency,Private Room,2023-02-28,2023-03-21,21,Appendectomy,Recovered,107438,53577,53861,4.3
+ADM0413,P0353,Sunrise Health Clinic,Oncology,Dr. Maria Lopez,Emergency,Private Room,2024-10-03,2024-10-24,21,Colon Cancer,Discharged,163487,0,163487,4.0
+ADM0414,P0414,St. Mary Medical Center,Oncology,Dr. Maria Lopez,Emergency,Semi-Private,2024-04-01,2024-04-09,8,Lung Cancer,Referred,162671,92054,70617,3.0
+ADM0415,P0442,St. Mary Medical Center,Neurology,Dr. Omar Farooq,Emergency,General Ward,2024-08-06,2024-08-22,16,Parkinson Disease,Discharged,184957,97458,87499,2.7
+ADM0416,P0037,St. Mary Medical Center,Oncology,Dr. David Lee,Referral,ICU,2024-04-10,2024-05-01,21,Breast Cancer,Referred,166827,0,166827,3.5
+ADM0417,P0057,City General Hospital,Cardiology,Dr. Ahmed Khan,Emergency,ICU,2023-05-16,2023-05-24,8,Heart Failure,Recovered,141447,65658,75789,3.0
+ADM0418,P0246,St. Mary Medical Center,Gynecology,Dr. Susan Park,Referral,ICU,2023-11-11,2023-11-22,11,PCOS,Recovered,112312,47749,64563,2.8
+ADM0419,P0152,Valley Care Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,Private Room,2024-03-01,2024-03-06,5,Arthritis,Discharged,32498,16314,16184,4.8
+ADM0420,P0351,City General Hospital,Oncology,Dr. Maria Lopez,Elective,ICU,2024-05-18,2024-05-24,6,Colon Cancer,Recovered,50288,41760,8528,3.4
+ADM0421,P0474,City General Hospital,Orthopedics,Dr. James Wright,Referral,Semi-Private,2024-09-11,2024-09-16,5,Fracture,Under Treatment,72744,40059,32685,4.1
+ADM0422,P0147,City General Hospital,Emergency,Dr. Ryan Scott,Emergency,General Ward,2023-10-05,2023-10-21,16,Poisoning,Under Treatment,157221,120246,36975,2.9
+ADM0423,P0229,City General Hospital,Gynecology,Dr. Susan Park,Emergency,General Ward,2023-04-26,2023-05-15,19,Endometriosis,Under Treatment,146999,68369,78630,3.3
+ADM0424,P0218,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Elective,Semi-Private,2024-09-08,2024-09-29,21,Endometriosis,Referred,165721,136689,29032,3.8
+ADM0425,P0421,Metro Community Hospital,Pediatrics,Dr. Ali Raza,Referral,ICU,2023-03-27,2023-04-15,19,Asthma,Under Treatment,194030,128068,65962,2.5
+ADM0426,P0436,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Emergency,Private Room,2024-07-25,2024-08-10,16,Arrhythmia,Discharged,66023,53486,12537,4.6
+ADM0427,P0283,St. Mary Medical Center,Oncology,Dr. David Lee,Elective,ICU,2023-08-04,2023-08-12,8,Leukemia,Under Treatment,65311,29570,35741,2.6
+ADM0428,P0055,Metro Community Hospital,Orthopedics,Dr. James Wright,Emergency,ICU,2024-08-31,2024-09-06,6,Back Pain,Discharged,43745,20279,23466,4.4
+ADM0429,P0241,Valley Care Hospital,Neurology,Dr. Emily Chen,Elective,ICU,2024-12-16,2024-12-26,10,Stroke,Recovered,136702,75432,61270,4.7
+ADM0430,P0017,Valley Care Hospital,Neurology,Dr. Omar Farooq,Referral,Private Room,2023-06-14,2023-06-15,1,Epilepsy,Discharged,99475,70225,29250,3.6
+ADM0431,P0081,City General Hospital,General Surgery,Dr. Layla Hassan,Referral,ICU,2024-06-18,2024-07-01,13,Hernia Repair,Referred,88523,0,88523,3.0
+ADM0432,P0382,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,ICU,2024-05-03,2024-05-14,11,Arthritis,Referred,158332,0,158332,3.0
+ADM0433,P0056,City General Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,ICU,2024-01-07,2024-01-27,20,Knee Replacement,Discharged,204299,84298,120001,4.0
+ADM0434,P0388,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Referral,Semi-Private,2024-07-18,2024-07-25,7,Appendectomy,Recovered,119122,62078,57044,3.3
+ADM0435,P0484,City General Hospital,General Surgery,Dr. Layla Hassan,Referral,Private Room,2024-01-01,2024-01-11,10,Hernia Repair,Recovered,108555,58784,49771,3.3
+ADM0436,P0460,Valley Care Hospital,Orthopedics,Dr. James Wright,Elective,General Ward,2023-06-03,2023-06-04,1,Fracture,Referred,123112,75668,47444,2.7
+ADM0437,P0321,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Elective,General Ward,2023-08-09,2023-08-30,21,Arthritis,Under Treatment,153958,72741,81217,3.4
+ADM0438,P0439,City General Hospital,Oncology,Dr. David Lee,Referral,Semi-Private,2024-12-30,2024-12-31,1,Breast Cancer,Recovered,59182,39835,19347,2.9
+ADM0439,P0446,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Emergency,ICU,2023-03-31,2023-04-16,16,Gallbladder Removal,Under Treatment,88782,42293,46489,3.4
+ADM0440,P0037,Metro Community Hospital,Neurology,Dr. Emily Chen,Emergency,Semi-Private,2023-09-22,2023-10-08,16,Migraine,Under Treatment,128523,0,128523,4.6
+ADM0441,P0206,Valley Care Hospital,Oncology,Dr. Maria Lopez,Elective,ICU,2024-11-27,2024-12-02,5,Leukemia,Referred,104792,81756,23036,3.2
+ADM0442,P0449,Valley Care Hospital,Cardiology,Dr. Ahmed Khan,Emergency,ICU,2024-10-21,2024-10-23,2,Heart Failure,Referred,145039,103686,41353,2.9
+ADM0443,P0205,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Emergency,ICU,2024-02-02,2024-02-17,15,Fracture,Recovered,151704,92486,59218,4.8
+ADM0444,P0473,Metro Community Hospital,Oncology,Dr. Maria Lopez,Emergency,Semi-Private,2023-07-24,2023-08-06,13,Breast Cancer,Under Treatment,98585,54625,43960,3.6
+ADM0445,P0280,Metro Community Hospital,Neurology,Dr. Omar Farooq,Emergency,Private Room,2023-05-30,2023-06-20,21,Parkinson Disease,Referred,135837,56249,79588,3.0
+ADM0446,P0109,Metro Community Hospital,Cardiology,Dr. Sara Malik,Elective,ICU,2023-10-04,2023-10-13,9,Heart Failure,Referred,122668,56891,65777,4.7
+ADM0447,P0269,Sunrise Health Clinic,Pediatrics,Dr. Priya Sharma,Emergency,General Ward,2023-07-08,2023-07-10,2,Malnutrition,Referred,48958,0,48958,3.7
+ADM0448,P0275,Metro Community Hospital,Neurology,Dr. Emily Chen,Emergency,General Ward,2023-12-30,2024-01-18,19,Epilepsy,Under Treatment,124233,81051,43182,2.5
+ADM0449,P0460,St. Mary Medical Center,Gynecology,Dr. Zara Ahmed,Elective,General Ward,2024-05-26,2024-06-06,11,Endometriosis,Recovered,104702,61028,43674,2.6
+ADM0450,P0382,Metro Community Hospital,Pediatrics,Dr. Priya Sharma,Emergency,Private Room,2024-12-14,2024-12-31,17,Asthma,Discharged,191279,0,191279,4.9
+ADM0451,P0296,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Referral,Semi-Private,2024-01-08,2024-01-09,1,Arrhythmia,Referred,70190,53946,16244,3.5
+ADM0452,P0181,Valley Care Hospital,Oncology,Dr. David Lee,Referral,Semi-Private,2023-12-10,2023-12-14,4,Leukemia,Under Treatment,68094,38671,29423,4.6
+ADM0453,P0353,Sunrise Health Clinic,Oncology,Dr. David Lee,Emergency,ICU,2024-12-19,2024-12-31,12,Leukemia,Recovered,90488,0,90488,3.7
+ADM0454,P0385,Metro Community Hospital,Orthopedics,Dr. James Wright,Emergency,Semi-Private,2024-05-30,2024-06-18,19,Back Pain,Recovered,94209,73791,20418,3.0
+ADM0455,P0241,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Elective,General Ward,2024-04-20,2024-05-04,14,Arthritis,Under Treatment,190568,139785,50783,4.7
+ADM0456,P0136,Metro Community Hospital,General Surgery,Dr. Michael Torres,Elective,Private Room,2024-11-20,2024-11-28,8,Gallbladder Removal,Discharged,44192,17986,26206,4.9
+ADM0457,P0221,Valley Care Hospital,Pediatrics,Dr. Priya Sharma,Emergency,Semi-Private,2024-02-05,2024-02-12,7,Asthma,Referred,140668,108715,31953,4.8
+ADM0458,P0265,Metro Community Hospital,Neurology,Dr. Omar Farooq,Referral,Private Room,2023-08-25,2023-08-29,4,Stroke,Under Treatment,144384,90517,53867,3.0
+ADM0459,P0048,Metro Community Hospital,Cardiology,Dr. Ahmed Khan,Referral,ICU,2023-01-12,2023-02-02,21,Arrhythmia,Recovered,182015,0,182015,4.4
+ADM0460,P0067,Sunrise Health Clinic,Gynecology,Dr. Zara Ahmed,Referral,Semi-Private,2023-07-11,2023-07-19,8,Prenatal Care,Recovered,131521,64080,67441,3.2
+ADM0461,P0479,City General Hospital,Neurology,Dr. Emily Chen,Emergency,General Ward,2024-10-15,2024-11-03,19,Epilepsy,Under Treatment,98410,80425,17985,4.7
+ADM0462,P0048,Metro Community Hospital,Orthopedics,Dr. James Wright,Elective,ICU,2024-01-06,2024-01-13,7,Back Pain,Recovered,96097,0,96097,3.0
+ADM0463,P0215,Sunrise Health Clinic,Oncology,Dr. David Lee,Referral,ICU,2024-10-10,2024-10-25,15,Breast Cancer,Under Treatment,84852,34328,50524,5.0
+ADM0464,P0248,St. Mary Medical Center,Cardiology,Dr. Ahmed Khan,Referral,General Ward,2024-06-18,2024-06-27,9,Coronary Artery Disease,Under Treatment,75094,31036,44058,2.8
+ADM0465,P0112,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Elective,Semi-Private,2023-05-22,2023-05-30,8,Coronary Artery Disease,Recovered,86439,71133,15306,3.4
+ADM0466,P0283,Metro Community Hospital,General Surgery,Dr. Michael Torres,Referral,Private Room,2024-05-22,2024-06-05,14,Laparoscopy,Recovered,129359,66302,63057,4.0
+ADM0467,P0393,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Elective,ICU,2023-07-30,2023-08-15,16,Laparoscopy,Referred,140194,93698,46496,3.0
+ADM0468,P0181,City General Hospital,Emergency,Dr. Fatima Zahra,Referral,Private Room,2024-04-05,2024-04-11,6,Respiratory Failure,Recovered,53396,35460,17936,2.8
+ADM0469,P0415,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Emergency,Private Room,2023-07-10,2023-07-22,12,Trauma,Recovered,80106,55724,24382,3.3
+ADM0470,P0006,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Elective,Private Room,2024-04-21,2024-05-10,19,Poisoning,Discharged,178357,0,178357,2.8
+ADM0471,P0143,Valley Care Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,General Ward,2024-10-23,2024-11-06,14,Knee Replacement,Referred,177135,96185,80950,3.7
+ADM0472,P0141,City General Hospital,Oncology,Dr. David Lee,Referral,ICU,2023-05-08,2023-05-23,15,Colon Cancer,Recovered,101708,67740,33968,4.1
+ADM0473,P0439,Metro Community Hospital,Cardiology,Dr. Ahmed Khan,Elective,ICU,2023-10-19,2023-10-24,5,Hypertension,Referred,89434,72720,16714,2.7
+ADM0474,P0411,Sunrise Health Clinic,Oncology,Dr. Maria Lopez,Elective,ICU,2023-10-09,2023-10-20,11,Leukemia,Under Treatment,161647,70461,91186,4.2
+ADM0475,P0233,City General Hospital,Gynecology,Dr. Zara Ahmed,Emergency,ICU,2024-01-18,2024-02-07,20,Prenatal Care,Referred,79765,33623,46142,3.1
+ADM0476,P0046,Sunrise Health Clinic,Pediatrics,Dr. Ali Raza,Emergency,ICU,2024-07-04,2024-07-05,1,Malnutrition,Recovered,111492,0,111492,3.2
+ADM0477,P0353,Sunrise Health Clinic,Oncology,Dr. David Lee,Emergency,Private Room,2024-12-16,2024-12-22,6,Lung Cancer,Referred,74496,0,74496,4.1
+ADM0478,P0343,Valley Care Hospital,Orthopedics,Dr. Nadia Hussain,Elective,Semi-Private,2024-06-24,2024-07-02,8,Fracture,Recovered,142068,88160,53908,3.2
+ADM0479,P0152,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Emergency,Semi-Private,2024-07-25,2024-08-02,8,Knee Replacement,Discharged,160732,126197,34535,2.5
+ADM0480,P0111,Metro Community Hospital,Gynecology,Dr. Susan Park,Elective,Semi-Private,2023-07-12,2023-07-28,16,Uterine Fibroid,Recovered,79520,60936,18584,4.8
+ADM0481,P0113,Metro Community Hospital,Emergency,Dr. Ryan Scott,Elective,Semi-Private,2024-04-08,2024-04-28,20,Poisoning,Under Treatment,184832,107220,77612,4.9
+ADM0482,P0296,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Emergency,Private Room,2024-04-17,2024-04-21,4,Knee Replacement,Referred,128203,52238,75965,4.2
+ADM0483,P0232,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Referral,Semi-Private,2023-05-02,2023-05-20,18,Cardiac Arrest,Recovered,98437,48769,49668,3.6
+ADM0484,P0190,City General Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,Private Room,2024-10-26,2024-11-08,13,Back Pain,Referred,156613,83366,73247,2.8
+ADM0485,P0026,City General Hospital,Pediatrics,Dr. Ali Raza,Referral,ICU,2023-08-13,2023-08-17,4,Malnutrition,Discharged,40557,21081,19476,4.7
+ADM0486,P0359,Metro Community Hospital,Oncology,Dr. Maria Lopez,Elective,General Ward,2024-02-07,2024-02-11,4,Lung Cancer,Discharged,89370,0,89370,3.4
+ADM0487,P0148,City General Hospital,General Surgery,Dr. Layla Hassan,Referral,Private Room,2023-04-07,2023-04-13,6,Hernia Repair,Discharged,130201,0,130201,3.3
+ADM0488,P0036,St. Mary Medical Center,Neurology,Dr. Omar Farooq,Elective,Private Room,2023-12-07,2023-12-22,15,Migraine,Discharged,99427,0,99427,4.9
+ADM0489,P0452,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Emergency,Semi-Private,2024-11-26,2024-11-27,1,Knee Replacement,Recovered,109836,72758,37078,4.5
+ADM0490,P0291,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Elective,Private Room,2024-06-21,2024-07-08,17,Laparoscopy,Referred,99367,74413,24954,4.3
+ADM0491,P0280,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Referral,Semi-Private,2023-09-17,2023-09-29,12,Appendectomy,Under Treatment,136253,76122,60131,4.2
+ADM0492,P0373,St. Mary Medical Center,Cardiology,Dr. Ahmed Khan,Referral,Semi-Private,2024-02-25,2024-03-04,8,Heart Failure,Discharged,131769,82227,49542,4.4
+ADM0493,P0100,City General Hospital,Oncology,Dr. David Lee,Elective,Private Room,2023-10-08,2023-10-29,21,Colon Cancer,Referred,193966,163765,30201,4.0
+ADM0494,P0484,Sunrise Health Clinic,General Surgery,Dr. Michael Torres,Elective,Semi-Private,2023-07-15,2023-07-17,2,Gallbladder Removal,Under Treatment,118747,65842,52905,2.8
+ADM0495,P0005,St. Mary Medical Center,Gynecology,Dr. Zara Ahmed,Elective,Semi-Private,2024-04-22,2024-04-27,5,Prenatal Care,Recovered,115345,75108,40237,4.5
+ADM0496,P0008,City General Hospital,Gynecology,Dr. Zara Ahmed,Elective,Private Room,2023-08-11,2023-08-21,10,PCOS,Recovered,115949,71861,44088,3.1
+ADM0497,P0180,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Emergency,General Ward,2024-11-12,2024-11-30,18,Laparoscopy,Recovered,119717,0,119717,3.2
+ADM0498,P0017,Sunrise Health Clinic,Gynecology,Dr. Zara Ahmed,Elective,Private Room,2023-09-12,2023-10-03,21,Prenatal Care,Discharged,147285,122999,24286,3.9
+ADM0499,P0348,Valley Care Hospital,Emergency,Dr. Fatima Zahra,Elective,ICU,2023-05-23,2023-05-30,7,Cardiac Arrest,Referred,76651,49779,26872,3.9
+ADM0500,P0193,City General Hospital,Oncology,Dr. Maria Lopez,Elective,Private Room,2023-05-22,2023-06-08,17,Leukemia,Referred,144976,0,144976,3.6
+ADM0501,P0211,City General Hospital,Gynecology,Dr. Zara Ahmed,Referral,Private Room,2024-07-26,2024-07-27,1,Uterine Fibroid,Under Treatment,133156,0,133156,2.8
+ADM0502,P0279,City General Hospital,General Surgery,Dr. Layla Hassan,Referral,Semi-Private,2024-02-07,2024-02-12,5,Appendectomy,Recovered,99391,0,99391,2.6
+ADM0503,P0425,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Emergency,ICU,2024-08-31,2024-09-04,4,Fracture,Discharged,87502,62194,25308,3.9
+ADM0504,P0496,St. Mary Medical Center,Gynecology,Dr. Zara Ahmed,Elective,General Ward,2023-08-17,2023-09-07,21,PCOS,Recovered,132678,71633,61045,2.5
+ADM0505,P0310,Valley Care Hospital,Orthopedics,Dr. Nadia Hussain,Elective,ICU,2023-04-10,2023-04-18,8,Knee Replacement,Under Treatment,74691,30705,43986,3.5
+ADM0506,P0095,Valley Care Hospital,Pediatrics,Dr. Priya Sharma,Emergency,ICU,2023-09-24,2023-10-14,20,Asthma,Discharged,204591,138656,65935,4.5
+ADM0507,P0337,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Referral,Semi-Private,2024-06-07,2024-06-25,18,Malnutrition,Under Treatment,121268,64335,56933,3.5
+ADM0508,P0358,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,Private Room,2024-03-02,2024-03-16,14,Knee Replacement,Referred,74576,45170,29406,2.6
+ADM0509,P0465,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Elective,Semi-Private,2024-04-24,2024-05-09,15,Trauma,Discharged,85812,48139,37673,4.1
+ADM0510,P0181,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Emergency,Semi-Private,2023-05-24,2023-06-02,9,Respiratory Failure,Referred,182639,97953,84686,4.0
+ADM0511,P0093,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Emergency,ICU,2024-12-15,2024-12-26,11,Appendectomy,Discharged,145386,0,145386,3.1
+ADM0512,P0341,Metro Community Hospital,Orthopedics,Dr. James Wright,Emergency,General Ward,2024-11-26,2024-12-12,16,Back Pain,Referred,123490,103929,19561,4.8
+ADM0513,P0032,City General Hospital,General Surgery,Dr. Michael Torres,Emergency,Private Room,2023-02-08,2023-02-11,3,Appendectomy,Referred,108984,0,108984,3.4
+ADM0514,P0327,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Elective,General Ward,2023-09-16,2023-10-02,16,Fever,Recovered,139325,69868,69457,4.1
+ADM0515,P0343,St. Mary Medical Center,Orthopedics,Dr. James Wright,Elective,General Ward,2023-02-04,2023-02-09,5,Back Pain,Discharged,52823,30828,21995,4.6
+ADM0516,P0293,Valley Care Hospital,Gynecology,Dr. Zara Ahmed,Elective,Semi-Private,2023-12-27,2024-01-08,12,Endometriosis,Recovered,176312,81464,94848,3.9
+ADM0517,P0066,City General Hospital,General Surgery,Dr. Layla Hassan,Emergency,General Ward,2023-05-01,2023-05-17,16,Gallbladder Removal,Under Treatment,112315,0,112315,3.5
+ADM0518,P0184,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Elective,ICU,2023-10-22,2023-10-25,3,Knee Replacement,Referred,113364,88870,24494,4.8
+ADM0519,P0135,City General Hospital,Cardiology,Dr. Ahmed Khan,Emergency,General Ward,2023-12-13,2023-12-27,14,Heart Failure,Recovered,97944,78317,19627,3.1
+ADM0520,P0038,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Emergency,Private Room,2023-03-14,2023-03-28,14,Hypertension,Recovered,175737,143790,31947,2.6
+ADM0521,P0260,Sunrise Health Clinic,Pediatrics,Dr. Ali Raza,Emergency,ICU,2024-03-17,2024-04-02,16,Fever,Discharged,162058,128739,33319,3.8
+ADM0522,P0441,City General Hospital,Oncology,Dr. David Lee,Elective,Semi-Private,2024-07-19,2024-08-04,16,Lung Cancer,Recovered,110695,63069,47626,3.6
+ADM0523,P0460,Sunrise Health Clinic,Emergency,Dr. Ryan Scott,Emergency,Semi-Private,2023-07-18,2023-07-29,11,Trauma,Recovered,103339,52126,51213,4.7
+ADM0524,P0128,City General Hospital,Cardiology,Dr. Sara Malik,Referral,General Ward,2023-02-28,2023-03-05,5,Heart Failure,Discharged,93684,39317,54367,4.0
+ADM0525,P0246,City General Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,Semi-Private,2023-03-20,2023-03-29,9,Arthritis,Under Treatment,126744,90922,35822,4.5
+ADM0526,P0150,Valley Care Hospital,Pediatrics,Dr. Priya Sharma,Elective,Semi-Private,2023-10-01,2023-10-12,11,Malnutrition,Recovered,165381,73920,91461,3.0
+ADM0527,P0071,Sunrise Health Clinic,Pediatrics,Dr. Ali Raza,Emergency,General Ward,2024-07-20,2024-07-27,7,Ear Infection,Referred,76573,0,76573,4.9
+ADM0528,P0011,City General Hospital,Gynecology,Dr. Zara Ahmed,Emergency,Private Room,2023-10-04,2023-10-13,9,Endometriosis,Referred,131259,101362,29897,2.5
+ADM0529,P0196,Metro Community Hospital,Oncology,Dr. David Lee,Referral,Private Room,2023-02-15,2023-02-23,8,Breast Cancer,Under Treatment,74434,51878,22556,4.8
+ADM0530,P0466,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Elective,ICU,2024-08-28,2024-09-04,7,Trauma,Referred,137422,99851,37571,4.9
+ADM0531,P0478,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Emergency,Semi-Private,2024-04-19,2024-05-03,14,Laparoscopy,Discharged,169197,126230,42967,2.8
+ADM0532,P0008,Sunrise Health Clinic,General Surgery,Dr. Layla Hassan,Emergency,Private Room,2023-03-29,2023-04-06,8,Gallbladder Removal,Under Treatment,157574,86963,70611,4.1
+ADM0533,P0401,City General Hospital,Cardiology,Dr. Sara Malik,Emergency,Semi-Private,2023-11-11,2023-11-30,19,Arrhythmia,Recovered,207683,0,207683,3.6
+ADM0534,P0239,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Elective,Private Room,2024-05-06,2024-05-27,21,Hypertension,Referred,163726,69807,93919,2.9
+ADM0535,P0393,Sunrise Health Clinic,General Surgery,Dr. Michael Torres,Emergency,ICU,2024-05-21,2024-05-26,5,Appendectomy,Discharged,78532,36604,41928,4.2
+ADM0536,P0441,Valley Care Hospital,Gynecology,Dr. Susan Park,Elective,ICU,2023-11-21,2023-11-23,2,Prenatal Care,Recovered,117908,50390,67518,4.0
+ADM0537,P0180,City General Hospital,Orthopedics,Dr. James Wright,Emergency,Private Room,2024-06-03,2024-06-18,15,Arthritis,Referred,75835,0,75835,2.7
+ADM0538,P0219,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Referral,Private Room,2023-01-26,2023-02-06,11,Laparoscopy,Under Treatment,155107,85424,69683,4.1
+ADM0539,P0083,City General Hospital,Emergency,Dr. Ryan Scott,Elective,Private Room,2023-10-25,2023-10-30,5,Poisoning,Referred,105004,0,105004,4.6
+ADM0540,P0017,Metro Community Hospital,Neurology,Dr. Omar Farooq,Referral,ICU,2024-10-26,2024-10-29,3,Migraine,Referred,45937,28783,17154,4.1
+ADM0541,P0267,Sunrise Health Clinic,Gynecology,Dr. Susan Park,Emergency,Semi-Private,2023-10-03,2023-10-10,7,Prenatal Care,Recovered,119494,65472,54022,4.2
+ADM0542,P0228,Sunrise Health Clinic,Oncology,Dr. Maria Lopez,Referral,Semi-Private,2023-03-23,2023-04-04,12,Lung Cancer,Referred,128784,0,128784,4.5
+ADM0543,P0118,Valley Care Hospital,Neurology,Dr. Omar Farooq,Elective,Private Room,2023-09-08,2023-09-22,14,Epilepsy,Recovered,183695,84897,98798,2.7
+ADM0544,P0216,Valley Care Hospital,Neurology,Dr. Emily Chen,Emergency,ICU,2024-05-21,2024-06-11,21,Parkinson Disease,Under Treatment,171719,136411,35308,4.4
+ADM0545,P0365,City General Hospital,Gynecology,Dr. Zara Ahmed,Emergency,General Ward,2023-05-10,2023-05-12,2,Endometriosis,Referred,82983,0,82983,3.4
+ADM0546,P0206,Sunrise Health Clinic,Pediatrics,Dr. Ali Raza,Emergency,Private Room,2023-05-02,2023-05-13,11,Ear Infection,Referred,124428,84298,40130,4.1
+ADM0547,P0380,Sunrise Health Clinic,Oncology,Dr. David Lee,Emergency,ICU,2024-05-03,2024-05-08,5,Colon Cancer,Referred,141464,0,141464,3.4
+ADM0548,P0225,Valley Care Hospital,Neurology,Dr. Omar Farooq,Emergency,Semi-Private,2024-08-25,2024-09-03,9,Epilepsy,Under Treatment,143553,76630,66923,3.5
+ADM0549,P0388,St. Mary Medical Center,Neurology,Dr. Omar Farooq,Emergency,Private Room,2023-02-12,2023-02-19,7,Epilepsy,Discharged,108915,71755,37160,2.8
+ADM0550,P0141,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Referral,Private Room,2023-08-18,2023-08-24,6,Uterine Fibroid,Recovered,87203,64448,22755,3.0
+ADM0551,P0430,City General Hospital,Neurology,Dr. Omar Farooq,Emergency,Private Room,2024-09-04,2024-09-06,2,Stroke,Under Treatment,114926,56062,58864,4.9
+ADM0552,P0293,Metro Community Hospital,Oncology,Dr. David Lee,Elective,Semi-Private,2024-06-17,2024-06-22,5,Leukemia,Under Treatment,95890,69263,26627,2.7
+ADM0553,P0071,City General Hospital,General Surgery,Dr. Michael Torres,Elective,General Ward,2023-12-29,2024-01-01,3,Gallbladder Removal,Under Treatment,147781,0,147781,3.6
+ADM0554,P0377,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Referral,ICU,2023-02-09,2023-02-23,14,Knee Replacement,Discharged,119810,76029,43781,2.8
+ADM0555,P0193,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Referral,Semi-Private,2023-09-29,2023-10-15,16,Malnutrition,Discharged,130052,0,130052,3.0
+ADM0556,P0449,Valley Care Hospital,Orthopedics,Dr. James Wright,Referral,General Ward,2023-08-08,2023-08-09,1,Knee Replacement,Referred,79640,51844,27796,4.2
+ADM0557,P0315,Valley Care Hospital,Oncology,Dr. David Lee,Elective,General Ward,2023-08-29,2023-09-19,21,Colon Cancer,Referred,155684,108297,47387,3.7
+ADM0558,P0323,Valley Care Hospital,Oncology,Dr. Maria Lopez,Elective,Semi-Private,2024-01-01,2024-01-19,18,Colon Cancer,Discharged,123830,61732,62098,4.2
+ADM0559,P0060,Metro Community Hospital,Neurology,Dr. Omar Farooq,Elective,Semi-Private,2023-11-23,2023-11-27,4,Stroke,Recovered,97915,70222,27693,3.2
+ADM0560,P0260,Metro Community Hospital,Pediatrics,Dr. Priya Sharma,Elective,Semi-Private,2023-03-04,2023-03-22,18,Ear Infection,Referred,175029,123176,51853,3.2
+ADM0561,P0028,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Emergency,General Ward,2023-08-13,2023-08-24,11,Hernia Repair,Recovered,145763,78541,67222,4.9
+ADM0562,P0315,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Referral,Private Room,2024-09-11,2024-09-29,18,Cardiac Arrest,Recovered,71823,54663,17160,4.1
+ADM0563,P0266,Sunrise Health Clinic,Pediatrics,Dr. Priya Sharma,Referral,General Ward,2024-07-02,2024-07-09,7,Malnutrition,Discharged,90899,0,90899,4.8
+ADM0564,P0170,St. Mary Medical Center,Oncology,Dr. David Lee,Referral,Semi-Private,2024-07-20,2024-07-28,8,Leukemia,Recovered,59673,24407,35266,2.9
+ADM0565,P0155,St. Mary Medical Center,Cardiology,Dr. Sara Malik,Referral,Semi-Private,2024-10-08,2024-10-16,8,Coronary Artery Disease,Under Treatment,66922,30492,36430,4.7
+ADM0566,P0040,Valley Care Hospital,Orthopedics,Dr. James Wright,Emergency,Semi-Private,2024-12-21,2024-12-31,10,Fracture,Under Treatment,65534,50698,14836,4.5
+ADM0567,P0218,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Elective,Private Room,2023-10-08,2023-10-23,15,Arrhythmia,Recovered,85559,71542,14017,3.1
+ADM0568,P0209,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Referral,Semi-Private,2023-10-19,2023-11-06,18,Gallbladder Removal,Recovered,146603,59777,86826,3.6
+ADM0569,P0296,Metro Community Hospital,Cardiology,Dr. Sara Malik,Elective,General Ward,2023-08-26,2023-09-10,15,Hypertension,Recovered,138186,62049,76137,3.9
+ADM0570,P0107,Valley Care Hospital,Gynecology,Dr. Susan Park,Referral,General Ward,2023-09-13,2023-09-16,3,PCOS,Referred,60810,0,60810,3.1
+ADM0571,P0160,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Elective,General Ward,2023-02-07,2023-02-18,11,Respiratory Failure,Referred,169304,98694,70610,3.3
+ADM0572,P0334,Sunrise Health Clinic,Pediatrics,Dr. Ali Raza,Emergency,Semi-Private,2024-04-17,2024-05-03,16,Fever,Referred,175070,148239,26831,2.8
+ADM0573,P0007,Valley Care Hospital,Neurology,Dr. Omar Farooq,Elective,General Ward,2023-05-05,2023-05-11,6,Parkinson Disease,Discharged,68998,28812,40186,4.4
+ADM0574,P0281,Metro Community Hospital,Oncology,Dr. Maria Lopez,Referral,Private Room,2023-01-10,2023-01-20,10,Colon Cancer,Discharged,73730,53379,20351,2.9
+ADM0575,P0268,Valley Care Hospital,Pediatrics,Dr. Priya Sharma,Referral,General Ward,2024-01-16,2024-02-02,17,Asthma,Referred,162828,99048,63780,2.5
+ADM0576,P0214,St. Mary Medical Center,Neurology,Dr. Emily Chen,Referral,Semi-Private,2024-04-26,2024-04-29,3,Epilepsy,Recovered,41071,19897,21174,2.7
+ADM0577,P0240,City General Hospital,Neurology,Dr. Emily Chen,Emergency,Private Room,2023-12-25,2024-01-15,21,Epilepsy,Referred,158847,0,158847,4.0
+ADM0578,P0157,Valley Care Hospital,Emergency,Dr. Ryan Scott,Referral,General Ward,2024-02-17,2024-02-26,9,Trauma,Discharged,145417,101314,44103,3.2
+ADM0579,P0135,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Referral,Semi-Private,2024-06-18,2024-07-07,19,Fracture,Discharged,184913,101438,83475,2.5
+ADM0580,P0119,City General Hospital,Pediatrics,Dr. Priya Sharma,Emergency,ICU,2024-09-21,2024-09-26,5,Asthma,Referred,58421,46362,12059,3.6
+ADM0581,P0242,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Referral,Semi-Private,2024-05-27,2024-05-31,4,Cardiac Arrest,Under Treatment,79352,45214,34138,4.6
+ADM0582,P0163,Valley Care Hospital,Orthopedics,Dr. Nadia Hussain,Referral,Semi-Private,2023-08-08,2023-08-14,6,Back Pain,Under Treatment,143206,103124,40082,4.2
+ADM0583,P0286,Sunrise Health Clinic,Oncology,Dr. Maria Lopez,Emergency,General Ward,2023-07-02,2023-07-03,1,Leukemia,Under Treatment,84859,59530,25329,2.9
+ADM0584,P0383,St. Mary Medical Center,Cardiology,Dr. Sara Malik,Emergency,Private Room,2024-03-28,2024-04-09,12,Heart Failure,Recovered,110594,73411,37183,4.0
+ADM0585,P0018,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Referral,ICU,2024-02-12,2024-02-14,2,Appendectomy,Referred,136309,0,136309,5.0
+ADM0586,P0324,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Emergency,Private Room,2023-06-27,2023-07-13,16,PCOS,Discharged,209697,135362,74335,4.3
+ADM0587,P0091,City General Hospital,Neurology,Dr. Omar Farooq,Emergency,Private Room,2024-03-05,2024-03-09,4,Stroke,Recovered,55318,39816,15502,3.3
+ADM0588,P0345,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Emergency,General Ward,2024-08-23,2024-09-04,12,Poisoning,Under Treatment,135793,78954,56839,2.7
+ADM0589,P0228,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Referral,ICU,2024-09-15,2024-09-22,7,Heart Failure,Under Treatment,146066,0,146066,3.9
+ADM0590,P0061,Metro Community Hospital,Emergency,Dr. Ryan Scott,Emergency,ICU,2024-08-04,2024-08-07,3,Poisoning,Under Treatment,111965,50644,61321,4.0
+ADM0591,P0495,St. Mary Medical Center,Cardiology,Dr. Ahmed Khan,Referral,General Ward,2023-01-11,2023-01-18,7,Heart Failure,Discharged,136583,0,136583,4.4
+ADM0592,P0378,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Elective,General Ward,2023-02-24,2023-03-09,13,Stroke,Under Treatment,147908,77731,70177,4.7
+ADM0593,P0091,Sunrise Health Clinic,General Surgery,Dr. Layla Hassan,Elective,Semi-Private,2024-12-15,2024-12-30,15,Hernia Repair,Recovered,107292,60064,47228,4.9
+ADM0594,P0300,St. Mary Medical Center,Oncology,Dr. Maria Lopez,Emergency,Private Room,2024-07-04,2024-07-23,19,Colon Cancer,Recovered,129883,72230,57653,3.8
+ADM0595,P0108,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Elective,General Ward,2024-04-23,2024-05-02,9,Laparoscopy,Under Treatment,57452,40001,17451,3.4
+ADM0596,P0194,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Elective,Private Room,2024-12-19,2024-12-23,4,Hypertension,Discharged,117393,55343,62050,4.8
+ADM0597,P0157,Metro Community Hospital,Neurology,Dr. Omar Farooq,Referral,Semi-Private,2024-07-13,2024-07-19,6,Parkinson Disease,Referred,136072,103979,32093,4.6
+ADM0598,P0130,Valley Care Hospital,Emergency,Dr. Ryan Scott,Referral,ICU,2023-12-12,2023-12-28,16,Respiratory Failure,Referred,162747,68038,94709,4.4
+ADM0599,P0489,Valley Care Hospital,Oncology,Dr. David Lee,Referral,General Ward,2023-01-30,2023-02-05,6,Lung Cancer,Under Treatment,105973,0,105973,4.5
+ADM0600,P0028,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Emergency,General Ward,2023-05-25,2023-06-06,12,Arthritis,Under Treatment,116223,70578,45645,2.7
+ADM0601,P0121,Metro Community Hospital,Pediatrics,Dr. Priya Sharma,Emergency,Semi-Private,2023-04-03,2023-04-11,8,Asthma,Under Treatment,89831,0,89831,2.7
+ADM0602,P0282,St. Mary Medical Center,Oncology,Dr. David Lee,Elective,General Ward,2024-04-28,2024-05-11,13,Colon Cancer,Discharged,133312,99101,34211,3.5
+ADM0603,P0168,Metro Community Hospital,General Surgery,Dr. Michael Torres,Emergency,General Ward,2024-09-03,2024-09-16,13,Hernia Repair,Under Treatment,127315,78902,48413,3.4
+ADM0604,P0257,Valley Care Hospital,Cardiology,Dr. Ahmed Khan,Emergency,General Ward,2024-09-05,2024-09-18,13,Heart Failure,Referred,80027,36983,43044,2.7
+ADM0605,P0197,Metro Community Hospital,Neurology,Dr. Emily Chen,Elective,Semi-Private,2023-06-04,2023-06-14,10,Stroke,Discharged,113100,87039,26061,3.5
+ADM0606,P0265,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,General Ward,2023-03-26,2023-04-07,12,Arthritis,Discharged,153911,106990,46921,3.9
+ADM0607,P0197,City General Hospital,Gynecology,Dr. Susan Park,Elective,Private Room,2024-05-12,2024-06-02,21,PCOS,Referred,185836,138840,46996,3.8
+ADM0608,P0400,Sunrise Health Clinic,Gynecology,Dr. Susan Park,Referral,ICU,2024-07-01,2024-07-13,12,Uterine Fibroid,Recovered,84160,70806,13354,3.3
+ADM0609,P0479,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Emergency,ICU,2024-06-11,2024-07-01,20,Laparoscopy,Referred,192900,81374,111526,3.4
+ADM0610,P0456,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Emergency,Private Room,2024-03-11,2024-03-22,11,Cardiac Arrest,Referred,166217,127759,38458,2.5
+ADM0611,P0167,City General Hospital,General Surgery,Dr. Layla Hassan,Emergency,General Ward,2024-09-02,2024-09-06,4,Appendectomy,Recovered,94403,0,94403,2.8
+ADM0612,P0075,Metro Community Hospital,Gynecology,Dr. Susan Park,Emergency,ICU,2023-10-09,2023-10-21,12,Prenatal Care,Under Treatment,147947,75430,72517,2.6
+ADM0613,P0312,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,General Ward,2024-06-08,2024-06-11,3,Arthritis,Recovered,95840,51360,44480,4.6
+ADM0614,P0222,St. Mary Medical Center,Orthopedics,Dr. James Wright,Referral,ICU,2024-08-07,2024-08-16,9,Arthritis,Referred,109357,70275,39082,3.0
+ADM0615,P0479,Sunrise Health Clinic,Oncology,Dr. Maria Lopez,Emergency,Private Room,2024-12-06,2024-12-12,6,Colon Cancer,Recovered,95222,40049,55173,3.5
+ADM0616,P0010,St. Mary Medical Center,Oncology,Dr. Maria Lopez,Emergency,General Ward,2023-10-09,2023-10-18,9,Lung Cancer,Recovered,139867,117370,22497,4.3
+ADM0617,P0114,Valley Care Hospital,Orthopedics,Dr. Nadia Hussain,Referral,Semi-Private,2023-10-22,2023-11-11,20,Back Pain,Recovered,161101,110459,50642,3.4
+ADM0618,P0164,Metro Community Hospital,Emergency,Dr. Ryan Scott,Referral,Semi-Private,2023-06-05,2023-06-20,15,Cardiac Arrest,Referred,166110,106229,59881,2.6
+ADM0619,P0437,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Elective,Private Room,2024-07-28,2024-08-09,12,Arthritis,Referred,89448,75422,14026,4.2
+ADM0620,P0016,Valley Care Hospital,Neurology,Dr. Omar Farooq,Elective,ICU,2024-08-21,2024-08-27,6,Epilepsy,Referred,133223,0,133223,5.0
+ADM0621,P0193,Metro Community Hospital,Neurology,Dr. Emily Chen,Emergency,Private Room,2024-09-13,2024-09-17,4,Stroke,Discharged,52254,0,52254,4.4
+ADM0622,P0377,Valley Care Hospital,Oncology,Dr. Maria Lopez,Elective,Private Room,2024-02-23,2024-03-06,12,Breast Cancer,Under Treatment,161150,129759,31391,3.8
+ADM0623,P0273,St. Mary Medical Center,Oncology,Dr. Maria Lopez,Emergency,General Ward,2024-02-18,2024-03-05,16,Leukemia,Under Treatment,174151,134403,39748,2.5
+ADM0624,P0425,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Elective,Semi-Private,2024-11-02,2024-11-08,6,Poisoning,Recovered,128209,84755,43454,4.0
+ADM0625,P0071,Valley Care Hospital,Orthopedics,Dr. James Wright,Emergency,Semi-Private,2024-08-07,2024-08-21,14,Knee Replacement,Under Treatment,86600,0,86600,2.6
+ADM0626,P0308,Valley Care Hospital,Oncology,Dr. David Lee,Emergency,Semi-Private,2024-06-07,2024-06-14,7,Lung Cancer,Under Treatment,74229,0,74229,2.8
+ADM0627,P0034,St. Mary Medical Center,Cardiology,Dr. Ahmed Khan,Emergency,Semi-Private,2024-08-14,2024-08-29,15,Hypertension,Under Treatment,149716,100529,49187,4.7
+ADM0628,P0466,St. Mary Medical Center,Neurology,Dr. Omar Farooq,Referral,Semi-Private,2024-04-18,2024-04-21,3,Parkinson Disease,Recovered,47328,33457,13871,4.5
+ADM0629,P0491,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Referral,ICU,2023-05-04,2023-05-24,20,Gallbladder Removal,Referred,207858,85362,122496,4.6
+ADM0630,P0372,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Emergency,General Ward,2024-02-14,2024-03-02,17,Heart Failure,Recovered,176900,104878,72022,4.3
+ADM0631,P0188,Sunrise Health Clinic,Oncology,Dr. Maria Lopez,Emergency,Private Room,2023-05-26,2023-06-03,8,Breast Cancer,Referred,155967,0,155967,4.7
+ADM0632,P0252,Sunrise Health Clinic,Pediatrics,Dr. Priya Sharma,Referral,Private Room,2023-12-17,2023-12-27,10,Malnutrition,Recovered,150445,0,150445,4.4
+ADM0633,P0076,City General Hospital,General Surgery,Dr. Layla Hassan,Elective,General Ward,2023-08-15,2023-08-27,12,Gallbladder Removal,Referred,155825,0,155825,4.3
+ADM0634,P0345,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Referral,General Ward,2024-12-12,2024-12-17,5,Appendectomy,Discharged,69594,54744,14850,4.0
+ADM0635,P0076,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Referral,General Ward,2024-01-08,2024-01-25,17,Heart Failure,Discharged,185397,0,185397,4.0
+ADM0636,P0257,Valley Care Hospital,Emergency,Dr. Fatima Zahra,Emergency,Semi-Private,2024-01-19,2024-02-01,13,Respiratory Failure,Recovered,130344,103213,27131,4.2
+ADM0637,P0034,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Referral,General Ward,2023-11-13,2023-11-20,7,Cardiac Arrest,Referred,69791,47031,22760,3.6
+ADM0638,P0468,Valley Care Hospital,Cardiology,Dr. Ahmed Khan,Elective,ICU,2023-08-22,2023-08-29,7,Heart Failure,Recovered,97855,56689,41166,4.9
+ADM0639,P0029,Valley Care Hospital,Gynecology,Dr. Zara Ahmed,Emergency,Semi-Private,2024-06-19,2024-06-27,8,Uterine Fibroid,Recovered,95582,70037,25545,4.9
+ADM0640,P0137,City General Hospital,General Surgery,Dr. Michael Torres,Emergency,Semi-Private,2023-07-14,2023-07-17,3,Laparoscopy,Recovered,59716,25522,34194,3.8
+ADM0641,P0401,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Emergency,Semi-Private,2024-10-11,2024-10-14,3,Coronary Artery Disease,Recovered,64345,0,64345,3.9
+ADM0642,P0111,Sunrise Health Clinic,Gynecology,Dr. Susan Park,Referral,General Ward,2024-08-05,2024-08-06,1,Endometriosis,Recovered,109284,79121,30163,3.1
+ADM0643,P0209,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Elective,General Ward,2024-10-08,2024-10-14,6,Gallbladder Removal,Under Treatment,97571,61605,35966,4.2
+ADM0644,P0258,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Elective,General Ward,2023-04-25,2023-05-01,6,Hernia Repair,Recovered,97963,78568,19395,4.4
+ADM0645,P0345,City General Hospital,General Surgery,Dr. Michael Torres,Emergency,General Ward,2024-03-29,2024-04-09,11,Hernia Repair,Under Treatment,163884,126215,37669,3.8
+ADM0646,P0164,City General Hospital,Gynecology,Dr. Susan Park,Emergency,General Ward,2024-12-02,2024-12-12,10,Endometriosis,Discharged,142161,99847,42314,4.6
+ADM0647,P0313,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Referral,Private Room,2024-06-12,2024-06-28,16,Stroke,Under Treatment,197838,0,197838,3.7
+ADM0648,P0439,Sunrise Health Clinic,General Surgery,Dr. Layla Hassan,Elective,Private Room,2023-05-29,2023-06-08,10,Laparoscopy,Referred,114043,88173,25870,4.4
+ADM0649,P0003,City General Hospital,Oncology,Dr. Maria Lopez,Emergency,General Ward,2024-02-23,2024-03-06,12,Lung Cancer,Under Treatment,152911,128253,24658,3.2
+ADM0650,P0192,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Referral,Semi-Private,2024-03-13,2024-03-26,13,Heart Failure,Recovered,127283,93242,34041,2.7
+ADM0651,P0083,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Referral,Semi-Private,2024-08-30,2024-09-15,16,Poisoning,Under Treatment,115828,0,115828,5.0
+ADM0652,P0301,City General Hospital,Oncology,Dr. Maria Lopez,Elective,ICU,2023-04-14,2023-04-16,2,Leukemia,Discharged,117326,75330,41996,4.7
+ADM0653,P0038,Metro Community Hospital,Emergency,Dr. Ryan Scott,Elective,General Ward,2023-06-05,2023-06-10,5,Cardiac Arrest,Under Treatment,123354,60443,62911,3.9
+ADM0654,P0419,City General Hospital,General Surgery,Dr. Layla Hassan,Elective,Semi-Private,2023-05-24,2023-05-27,3,Hernia Repair,Discharged,156161,0,156161,3.3
+ADM0655,P0117,Sunrise Health Clinic,Gynecology,Dr. Susan Park,Referral,ICU,2023-12-08,2023-12-15,7,Uterine Fibroid,Recovered,146813,0,146813,4.1
+ADM0656,P0219,Metro Community Hospital,Oncology,Dr. Maria Lopez,Emergency,Private Room,2023-02-19,2023-03-08,17,Leukemia,Under Treatment,93179,37951,55228,3.9
+ADM0657,P0325,City General Hospital,Orthopedics,Dr. James Wright,Referral,ICU,2024-08-01,2024-08-04,3,Back Pain,Discharged,121634,0,121634,4.4
+ADM0658,P0393,Sunrise Health Clinic,Oncology,Dr. David Lee,Referral,Private Room,2024-04-21,2024-05-06,15,Leukemia,Referred,181300,99478,81822,4.7
+ADM0659,P0206,City General Hospital,General Surgery,Dr. Michael Torres,Elective,General Ward,2024-09-30,2024-10-13,13,Gallbladder Removal,Referred,51238,27928,23310,4.1
+ADM0660,P0103,Valley Care Hospital,Emergency,Dr. Ryan Scott,Emergency,ICU,2023-06-06,2023-06-13,7,Poisoning,Under Treatment,139583,75210,64373,4.9
+ADM0661,P0168,St. Mary Medical Center,Emergency,Dr. Fatima Zahra,Emergency,General Ward,2024-11-04,2024-11-11,7,Cardiac Arrest,Recovered,68539,40502,28037,2.8
+ADM0662,P0461,City General Hospital,Gynecology,Dr. Susan Park,Emergency,Semi-Private,2024-01-20,2024-01-21,1,Endometriosis,Referred,104564,76641,27923,3.0
+ADM0663,P0395,Valley Care Hospital,Oncology,Dr. David Lee,Emergency,General Ward,2023-05-08,2023-05-11,3,Breast Cancer,Referred,68157,49484,18673,4.4
+ADM0664,P0184,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Referral,ICU,2023-07-15,2023-07-22,7,Respiratory Failure,Recovered,80139,45033,35106,2.5
+ADM0665,P0412,Metro Community Hospital,Oncology,Dr. Maria Lopez,Emergency,ICU,2023-04-13,2023-04-25,12,Leukemia,Referred,133506,57326,76180,2.5
+ADM0666,P0494,Sunrise Health Clinic,General Surgery,Dr. Michael Torres,Emergency,Semi-Private,2023-02-16,2023-02-21,5,Appendectomy,Recovered,74507,30114,44393,4.0
+ADM0667,P0108,Sunrise Health Clinic,General Surgery,Dr. Michael Torres,Referral,General Ward,2024-09-24,2024-10-08,14,Gallbladder Removal,Recovered,82262,39370,42892,4.5
+ADM0668,P0016,St. Mary Medical Center,Gynecology,Dr. Susan Park,Referral,Private Room,2023-11-10,2023-11-23,13,PCOS,Recovered,175486,0,175486,3.3
+ADM0669,P0456,City General Hospital,Gynecology,Dr. Zara Ahmed,Emergency,ICU,2023-05-28,2023-06-11,14,PCOS,Under Treatment,83387,61967,21420,4.7
+ADM0670,P0048,City General Hospital,Oncology,Dr. Maria Lopez,Emergency,ICU,2023-04-26,2023-05-12,16,Colon Cancer,Referred,150643,0,150643,3.7
+ADM0671,P0463,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Elective,General Ward,2023-11-27,2023-12-15,18,Hernia Repair,Discharged,161289,116506,44783,3.8
+ADM0672,P0413,St. Mary Medical Center,Neurology,Dr. Omar Farooq,Elective,ICU,2024-11-06,2024-11-09,3,Stroke,Discharged,130827,0,130827,3.1
+ADM0673,P0374,Sunrise Health Clinic,General Surgery,Dr. Layla Hassan,Emergency,Private Room,2024-12-28,2024-12-31,3,Laparoscopy,Under Treatment,134847,85305,49542,4.2
+ADM0674,P0297,Metro Community Hospital,Cardiology,Dr. Ahmed Khan,Emergency,General Ward,2024-10-09,2024-10-11,2,Arrhythmia,Under Treatment,132072,53680,78392,2.5
+ADM0675,P0247,Sunrise Health Clinic,Gynecology,Dr. Susan Park,Referral,Private Room,2023-07-12,2023-08-02,21,Endometriosis,Recovered,176317,149290,27027,4.4
+ADM0676,P0336,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Referral,ICU,2023-07-10,2023-07-19,9,Cardiac Arrest,Under Treatment,119600,89389,30211,2.7
+ADM0677,P0188,City General Hospital,Oncology,Dr. David Lee,Emergency,Private Room,2024-07-10,2024-07-15,5,Lung Cancer,Under Treatment,53704,0,53704,3.3
+ADM0678,P0224,Valley Care Hospital,Orthopedics,Dr. James Wright,Emergency,General Ward,2023-07-06,2023-07-19,13,Arthritis,Discharged,117390,0,117390,3.9
+ADM0679,P0272,Valley Care Hospital,Cardiology,Dr. Ahmed Khan,Elective,General Ward,2024-01-07,2024-01-25,18,Hypertension,Discharged,136064,0,136064,4.1
+ADM0680,P0440,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Elective,Private Room,2024-07-07,2024-07-27,20,Ear Infection,Referred,132001,0,132001,4.7
+ADM0681,P0240,St. Mary Medical Center,Emergency,Dr. Fatima Zahra,Emergency,ICU,2023-11-04,2023-11-05,1,Trauma,Referred,39449,0,39449,2.9
+ADM0682,P0247,St. Mary Medical Center,Neurology,Dr. Emily Chen,Elective,ICU,2024-02-05,2024-02-11,6,Stroke,Under Treatment,134019,89275,44744,2.9
+ADM0683,P0206,Valley Care Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,ICU,2024-11-19,2024-11-24,5,Arthritis,Recovered,68921,48417,20504,4.4
+ADM0684,P0307,St. Mary Medical Center,Gynecology,Dr. Susan Park,Emergency,ICU,2024-11-07,2024-11-22,15,Prenatal Care,Under Treatment,113275,72900,40375,4.9
+ADM0685,P0021,Sunrise Health Clinic,Oncology,Dr. Maria Lopez,Elective,General Ward,2023-04-26,2023-05-17,21,Breast Cancer,Recovered,173920,82752,91168,5.0
+ADM0686,P0309,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Elective,Private Room,2024-11-11,2024-11-27,16,Cardiac Arrest,Under Treatment,174762,74360,100402,3.5
+ADM0687,P0429,Sunrise Health Clinic,General Surgery,Dr. Layla Hassan,Emergency,Semi-Private,2023-03-27,2023-03-28,1,Hernia Repair,Referred,58422,0,58422,4.2
+ADM0688,P0054,Valley Care Hospital,Gynecology,Dr. Susan Park,Emergency,ICU,2024-09-13,2024-10-02,19,PCOS,Recovered,155011,122719,32292,2.8
+ADM0689,P0392,Sunrise Health Clinic,Pediatrics,Dr. Ali Raza,Elective,Semi-Private,2024-08-17,2024-09-06,20,Ear Infection,Recovered,161245,0,161245,4.9
+ADM0690,P0417,City General Hospital,Oncology,Dr. David Lee,Elective,Semi-Private,2023-08-10,2023-08-29,19,Breast Cancer,Referred,119038,98287,20751,4.6
+ADM0691,P0130,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Referral,Private Room,2023-12-27,2024-01-04,8,Poisoning,Discharged,105552,44491,61061,3.9
+ADM0692,P0443,Metro Community Hospital,Emergency,Dr. Ryan Scott,Elective,Private Room,2023-12-23,2023-12-29,6,Trauma,Recovered,102628,57298,45330,4.1
+ADM0693,P0161,St. Mary Medical Center,Gynecology,Dr. Susan Park,Elective,General Ward,2024-01-27,2024-02-03,7,Uterine Fibroid,Under Treatment,99287,55379,43908,2.5
+ADM0694,P0098,Valley Care Hospital,General Surgery,Dr. Michael Torres,Elective,ICU,2024-12-18,2024-12-31,13,Hernia Repair,Recovered,159956,104286,55670,2.7
+ADM0695,P0307,Sunrise Health Clinic,Oncology,Dr. Maria Lopez,Emergency,Private Room,2023-05-30,2023-06-10,11,Breast Cancer,Under Treatment,132806,61073,71733,5.0
+ADM0696,P0227,St. Mary Medical Center,Cardiology,Dr. Sara Malik,Emergency,General Ward,2024-07-15,2024-07-20,5,Coronary Artery Disease,Discharged,121499,0,121499,3.6
+ADM0697,P0416,St. Mary Medical Center,Pediatrics,Dr. Priya Sharma,Elective,General Ward,2023-01-13,2023-01-23,10,Ear Infection,Discharged,89689,55381,34308,4.6
+ADM0698,P0298,Valley Care Hospital,Oncology,Dr. Maria Lopez,Elective,Private Room,2024-02-01,2024-02-10,9,Colon Cancer,Discharged,162653,123867,38786,3.3
+ADM0699,P0183,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Referral,Private Room,2023-11-26,2023-12-04,8,Knee Replacement,Discharged,169881,77796,92085,4.3
+ADM0700,P0368,Metro Community Hospital,Pediatrics,Dr. Priya Sharma,Emergency,General Ward,2023-10-03,2023-10-22,19,Fever,Referred,115700,69078,46622,3.9
+ADM0701,P0030,Metro Community Hospital,Emergency,Dr. Ryan Scott,Referral,Private Room,2024-12-24,2024-12-29,5,Cardiac Arrest,Recovered,62462,0,62462,4.3
+ADM0702,P0252,St. Mary Medical Center,Oncology,Dr. Maria Lopez,Elective,General Ward,2024-02-10,2024-02-17,7,Leukemia,Discharged,137940,0,137940,4.4
+ADM0703,P0349,City General Hospital,Emergency,Dr. Ryan Scott,Referral,ICU,2024-09-16,2024-09-18,2,Respiratory Failure,Discharged,140994,93670,47324,4.3
+ADM0704,P0128,St. Mary Medical Center,Neurology,Dr. Emily Chen,Elective,Semi-Private,2023-01-31,2023-02-21,21,Parkinson Disease,Referred,147522,81035,66487,4.2
+ADM0705,P0071,St. Mary Medical Center,Emergency,Dr. Fatima Zahra,Elective,Semi-Private,2023-04-09,2023-04-19,10,Trauma,Discharged,113324,0,113324,3.2
+ADM0706,P0103,Sunrise Health Clinic,Pediatrics,Dr. Priya Sharma,Emergency,ICU,2024-10-24,2024-11-14,21,Fever,Under Treatment,109172,80604,28568,2.7
+ADM0707,P0001,City General Hospital,Cardiology,Dr. Sara Malik,Emergency,General Ward,2023-12-01,2023-12-14,13,Coronary Artery Disease,Referred,120136,96988,23148,3.0
+ADM0708,P0112,City General Hospital,Emergency,Dr. Fatima Zahra,Referral,General Ward,2024-11-30,2024-12-05,5,Poisoning,Referred,127121,60969,66152,2.6
+ADM0709,P0020,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Emergency,Semi-Private,2023-10-26,2023-10-30,4,Fracture,Discharged,94084,62617,31467,5.0
+ADM0710,P0472,Metro Community Hospital,Emergency,Dr. Ryan Scott,Referral,ICU,2024-11-05,2024-11-23,18,Cardiac Arrest,Discharged,153670,0,153670,3.4
+ADM0711,P0123,St. Mary Medical Center,Gynecology,Dr. Zara Ahmed,Referral,ICU,2024-02-18,2024-02-20,2,Prenatal Care,Referred,72819,0,72819,4.4
+ADM0712,P0330,Sunrise Health Clinic,Pediatrics,Dr. Priya Sharma,Elective,Semi-Private,2023-11-25,2023-11-30,5,Ear Infection,Recovered,112281,59715,52566,3.7
+ADM0713,P0252,Sunrise Health Clinic,Orthopedics,Dr. Nadia Hussain,Elective,ICU,2024-07-28,2024-08-13,16,Knee Replacement,Discharged,153681,0,153681,4.9
+ADM0714,P0158,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Referral,ICU,2023-02-19,2023-03-09,18,Parkinson Disease,Discharged,71531,41002,30529,3.8
+ADM0715,P0349,St. Mary Medical Center,Cardiology,Dr. Ahmed Khan,Elective,General Ward,2023-04-12,2023-04-27,15,Hypertension,Recovered,114870,62505,52365,4.8
+ADM0716,P0106,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Elective,General Ward,2023-01-05,2023-01-13,8,Arthritis,Referred,169355,92948,76407,2.6
+ADM0717,P0073,Valley Care Hospital,Pediatrics,Dr. Priya Sharma,Emergency,Private Room,2024-11-15,2024-11-24,9,Ear Infection,Recovered,129241,0,129241,3.5
+ADM0718,P0212,Sunrise Health Clinic,Oncology,Dr. Maria Lopez,Emergency,Semi-Private,2023-07-14,2023-07-30,16,Lung Cancer,Discharged,94553,0,94553,2.7
+ADM0719,P0059,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Referral,Semi-Private,2024-05-15,2024-05-18,3,Arthritis,Under Treatment,67147,31916,35231,3.2
+ADM0720,P0292,City General Hospital,General Surgery,Dr. Michael Torres,Emergency,ICU,2023-05-03,2023-05-16,13,Laparoscopy,Referred,95363,74469,20894,2.8
+ADM0721,P0118,Metro Community Hospital,Cardiology,Dr. Sara Malik,Referral,Private Room,2023-07-08,2023-07-11,3,Arrhythmia,Discharged,154084,66307,87777,3.6
+ADM0722,P0394,Valley Care Hospital,Cardiology,Dr. Ahmed Khan,Elective,Private Room,2023-07-13,2023-07-20,7,Coronary Artery Disease,Under Treatment,134185,88020,46165,3.7
+ADM0723,P0462,Metro Community Hospital,Cardiology,Dr. Ahmed Khan,Elective,Semi-Private,2024-01-25,2024-01-30,5,Hypertension,Referred,80614,40416,40198,2.7
+ADM0724,P0126,Valley Care Hospital,General Surgery,Dr. Michael Torres,Elective,ICU,2023-06-14,2023-06-19,5,Hernia Repair,Under Treatment,107777,48512,59265,3.4
+ADM0725,P0074,St. Mary Medical Center,Orthopedics,Dr. James Wright,Emergency,ICU,2023-01-07,2023-01-20,13,Knee Replacement,Recovered,58493,44815,13678,4.1
+ADM0726,P0467,Valley Care Hospital,Gynecology,Dr. Zara Ahmed,Referral,Semi-Private,2024-10-22,2024-11-04,13,Prenatal Care,Under Treatment,128788,73930,54858,5.0
+ADM0727,P0326,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Elective,Private Room,2023-06-06,2023-06-21,15,Uterine Fibroid,Under Treatment,135354,62937,72417,4.4
+ADM0728,P0222,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Emergency,Private Room,2023-02-13,2023-02-28,15,Hernia Repair,Referred,149830,117355,32475,3.6
+ADM0729,P0214,Metro Community Hospital,Gynecology,Dr. Susan Park,Emergency,General Ward,2024-03-30,2024-04-12,13,Uterine Fibroid,Discharged,127146,69511,57635,4.3
+ADM0730,P0292,Valley Care Hospital,Pediatrics,Dr. Priya Sharma,Emergency,Semi-Private,2024-01-08,2024-01-23,15,Asthma,Referred,185047,108011,77036,2.8
+ADM0731,P0334,Sunrise Health Clinic,Gynecology,Dr. Zara Ahmed,Referral,Semi-Private,2024-09-30,2024-10-14,14,Endometriosis,Discharged,63649,35132,28517,4.9
+ADM0732,P0013,Metro Community Hospital,Pediatrics,Dr. Ali Raza,Referral,Semi-Private,2024-08-04,2024-08-10,6,Asthma,Discharged,102990,67305,35685,3.5
+ADM0733,P0240,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Referral,ICU,2024-05-13,2024-05-24,11,Fever,Recovered,166102,0,166102,2.6
+ADM0734,P0472,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Emergency,Private Room,2023-04-03,2023-04-14,11,Hypertension,Under Treatment,120399,0,120399,4.1
+ADM0735,P0162,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Emergency,General Ward,2023-12-13,2023-12-19,6,Endometriosis,Recovered,76402,58146,18256,3.8
+ADM0736,P0317,St. Mary Medical Center,Oncology,Dr. David Lee,Emergency,General Ward,2024-07-29,2024-08-16,18,Leukemia,Recovered,193376,162917,30459,4.4
+ADM0737,P0070,Metro Community Hospital,Oncology,Dr. Maria Lopez,Elective,General Ward,2024-01-24,2024-02-09,16,Leukemia,Recovered,89775,59591,30184,4.9
+ADM0738,P0485,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Emergency,ICU,2023-03-29,2023-04-10,12,Poisoning,Under Treatment,56460,38439,18021,3.2
+ADM0739,P0406,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Elective,Private Room,2024-09-09,2024-09-25,16,Fracture,Under Treatment,102140,60057,42083,5.0
+ADM0740,P0463,Metro Community Hospital,Cardiology,Dr. Sara Malik,Elective,Semi-Private,2023-11-23,2023-11-29,6,Heart Failure,Recovered,59964,42888,17076,3.2
+ADM0741,P0389,City General Hospital,Gynecology,Dr. Zara Ahmed,Elective,Semi-Private,2023-12-07,2023-12-25,18,Uterine Fibroid,Referred,98401,39833,58568,3.5
+ADM0742,P0019,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Emergency,Private Room,2023-12-10,2023-12-22,12,Gallbladder Removal,Discharged,168688,99700,68988,3.7
+ADM0743,P0137,Metro Community Hospital,Orthopedics,Dr. James Wright,Emergency,ICU,2024-11-18,2024-11-21,3,Fracture,Recovered,125515,100803,24712,2.9
+ADM0744,P0034,Valley Care Hospital,Neurology,Dr. Omar Farooq,Referral,ICU,2023-08-31,2023-09-03,3,Stroke,Referred,40583,16479,24104,4.1
+ADM0745,P0170,Valley Care Hospital,Orthopedics,Dr. James Wright,Emergency,ICU,2023-05-05,2023-05-07,2,Knee Replacement,Recovered,118473,96331,22142,3.6
+ADM0746,P0352,St. Mary Medical Center,Pediatrics,Dr. Priya Sharma,Emergency,Semi-Private,2023-02-21,2023-02-24,3,Asthma,Referred,90393,57689,32704,3.2
+ADM0747,P0347,Metro Community Hospital,Cardiology,Dr. Ahmed Khan,Elective,General Ward,2023-07-09,2023-07-26,17,Coronary Artery Disease,Recovered,58173,0,58173,4.3
+ADM0748,P0039,St. Mary Medical Center,Pediatrics,Dr. Priya Sharma,Referral,Semi-Private,2023-11-26,2023-12-04,8,Malnutrition,Discharged,84037,65231,18806,3.6
+ADM0749,P0423,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Emergency,ICU,2024-06-27,2024-06-28,1,Trauma,Referred,127758,67284,60474,3.4
+ADM0750,P0376,Valley Care Hospital,Cardiology,Dr. Sara Malik,Emergency,ICU,2024-03-16,2024-03-19,3,Heart Failure,Under Treatment,143694,0,143694,4.2
+ADM0751,P0311,Valley Care Hospital,Orthopedics,Dr. Nadia Hussain,Elective,Private Room,2023-09-26,2023-10-07,11,Back Pain,Under Treatment,137759,105377,32382,3.9
+ADM0752,P0382,St. Mary Medical Center,Pediatrics,Dr. Priya Sharma,Elective,Semi-Private,2024-08-24,2024-08-30,6,Malnutrition,Referred,62904,0,62904,3.7
+ADM0753,P0461,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Emergency,Private Room,2023-06-06,2023-06-11,5,Endometriosis,Discharged,153701,90502,63199,3.5
+ADM0754,P0008,St. Mary Medical Center,Oncology,Dr. Maria Lopez,Emergency,Private Room,2023-06-04,2023-06-23,19,Colon Cancer,Discharged,84087,34255,49832,2.6
+ADM0755,P0201,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Elective,Semi-Private,2024-07-16,2024-07-25,9,Stroke,Referred,84502,56876,27626,4.9
+ADM0756,P0031,City General Hospital,Emergency,Dr. Fatima Zahra,Emergency,General Ward,2023-03-10,2023-03-21,11,Respiratory Failure,Discharged,169038,0,169038,3.5
+ADM0757,P0007,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Referral,General Ward,2023-12-13,2024-01-03,21,Gallbladder Removal,Under Treatment,164820,97746,67074,4.3
+ADM0758,P0414,Sunrise Health Clinic,Neurology,Dr. Emily Chen,Emergency,Private Room,2024-08-01,2024-08-17,16,Stroke,Under Treatment,79149,44838,34311,4.1
+ADM0759,P0462,Sunrise Health Clinic,Gynecology,Dr. Zara Ahmed,Elective,General Ward,2024-07-22,2024-08-02,11,Uterine Fibroid,Discharged,150084,107197,42887,3.7
+ADM0760,P0241,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Referral,Semi-Private,2024-06-07,2024-06-11,4,Arrhythmia,Under Treatment,100360,68307,32053,2.7
+ADM0761,P0200,Sunrise Health Clinic,Pediatrics,Dr. Ali Raza,Emergency,ICU,2024-12-29,2024-12-31,2,Malnutrition,Under Treatment,101830,43437,58393,4.6
+ADM0762,P0248,Sunrise Health Clinic,Neurology,Dr. Emily Chen,Referral,ICU,2023-11-24,2023-12-10,16,Epilepsy,Recovered,137131,67198,69933,4.3
+ADM0763,P0100,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Emergency,General Ward,2024-01-21,2024-02-04,14,Gallbladder Removal,Recovered,205546,83228,122318,2.6
+ADM0764,P0330,City General Hospital,Oncology,Dr. David Lee,Referral,Semi-Private,2024-01-13,2024-01-28,15,Colon Cancer,Recovered,173457,118237,55220,4.8
+ADM0765,P0234,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Emergency,ICU,2024-12-24,2024-12-31,7,Appendectomy,Under Treatment,100919,67002,33917,3.9
+ADM0766,P0189,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Emergency,Private Room,2024-01-20,2024-02-07,18,Migraine,Under Treatment,99948,69049,30899,3.3
+ADM0767,P0388,Valley Care Hospital,Cardiology,Dr. Ahmed Khan,Referral,General Ward,2023-02-27,2023-03-04,5,Coronary Artery Disease,Recovered,93083,43094,49989,4.4
+ADM0768,P0498,Sunrise Health Clinic,Emergency,Dr. Ryan Scott,Referral,Semi-Private,2023-03-25,2023-04-08,14,Respiratory Failure,Discharged,111611,69378,42233,3.9
+ADM0769,P0046,Metro Community Hospital,Pediatrics,Dr. Ali Raza,Emergency,ICU,2023-06-12,2023-06-16,4,Fever,Discharged,135245,0,135245,3.7
+ADM0770,P0022,St. Mary Medical Center,Pediatrics,Dr. Priya Sharma,Emergency,Private Room,2023-06-06,2023-06-11,5,Ear Infection,Recovered,107190,61568,45622,4.2
+ADM0771,P0357,Valley Care Hospital,Oncology,Dr. Maria Lopez,Emergency,Private Room,2023-03-11,2023-03-13,2,Breast Cancer,Under Treatment,65846,32526,33320,3.8
+ADM0772,P0425,Metro Community Hospital,Neurology,Dr. Omar Farooq,Elective,Private Room,2023-08-06,2023-08-11,5,Parkinson Disease,Discharged,107874,79278,28596,4.6
+ADM0773,P0387,Sunrise Health Clinic,General Surgery,Dr. Layla Hassan,Emergency,Semi-Private,2023-07-20,2023-07-31,11,Laparoscopy,Discharged,85856,59473,26383,3.0
+ADM0774,P0022,City General Hospital,Oncology,Dr. David Lee,Referral,Private Room,2023-07-30,2023-08-06,7,Colon Cancer,Referred,166858,122853,44005,2.6
+ADM0775,P0321,Valley Care Hospital,Pediatrics,Dr. Ali Raza,Elective,General Ward,2023-09-16,2023-09-23,7,Ear Infection,Referred,104153,42241,61912,4.3
+ADM0776,P0235,Valley Care Hospital,Oncology,Dr. David Lee,Emergency,ICU,2023-06-19,2023-07-05,16,Breast Cancer,Recovered,161418,85294,76124,4.0
+ADM0777,P0439,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Emergency,ICU,2023-01-01,2023-01-11,10,Heart Failure,Discharged,132672,86986,45686,4.1
+ADM0778,P0498,Sunrise Health Clinic,Oncology,Dr. David Lee,Emergency,Private Room,2023-03-19,2023-03-28,9,Lung Cancer,Under Treatment,107457,57367,50090,3.6
+ADM0779,P0478,City General Hospital,Pediatrics,Dr. Ali Raza,Elective,Private Room,2024-10-13,2024-10-14,1,Malnutrition,Recovered,86734,39088,47646,4.3
+ADM0780,P0246,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Elective,Semi-Private,2023-08-09,2023-08-12,3,Back Pain,Discharged,100458,41535,58923,4.9
+ADM0781,P0296,City General Hospital,Cardiology,Dr. Ahmed Khan,Referral,Private Room,2023-10-15,2023-10-25,10,Coronary Artery Disease,Discharged,150224,114301,35923,4.2
+ADM0782,P0415,City General Hospital,Cardiology,Dr. Ahmed Khan,Elective,Private Room,2024-07-30,2024-08-13,14,Hypertension,Under Treatment,162309,122768,39541,3.6
+ADM0783,P0242,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Elective,General Ward,2024-11-05,2024-11-17,12,Parkinson Disease,Under Treatment,174807,81384,93423,3.7
+ADM0784,P0178,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Emergency,Private Room,2024-11-19,2024-12-05,16,Hernia Repair,Under Treatment,174055,97845,76210,4.8
+ADM0785,P0331,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Referral,Private Room,2024-07-06,2024-07-12,6,Uterine Fibroid,Discharged,55302,0,55302,4.9
+ADM0786,P0406,Metro Community Hospital,Pediatrics,Dr. Ali Raza,Referral,ICU,2023-03-25,2023-04-08,14,Malnutrition,Discharged,100285,42008,58277,4.3
+ADM0787,P0351,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Referral,Semi-Private,2023-04-30,2023-05-11,11,Poisoning,Under Treatment,192738,109474,83264,4.4
+ADM0788,P0353,St. Mary Medical Center,Orthopedics,Dr. James Wright,Referral,ICU,2024-10-17,2024-11-07,21,Knee Replacement,Referred,184820,0,184820,2.9
+ADM0789,P0037,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Emergency,ICU,2024-02-20,2024-03-01,10,Appendectomy,Recovered,103325,0,103325,3.2
+ADM0790,P0107,City General Hospital,Neurology,Dr. Omar Farooq,Referral,Semi-Private,2023-03-10,2023-03-19,9,Migraine,Under Treatment,109272,0,109272,3.4
+ADM0791,P0192,Sunrise Health Clinic,Pediatrics,Dr. Ali Raza,Referral,Semi-Private,2024-03-14,2024-04-03,20,Fever,Referred,191988,129911,62077,3.3
+ADM0792,P0016,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Referral,Semi-Private,2024-01-28,2024-02-15,18,Appendectomy,Referred,179266,0,179266,2.6
+ADM0793,P0250,Metro Community Hospital,Orthopedics,Dr. James Wright,Elective,Semi-Private,2023-09-16,2023-10-04,18,Arthritis,Discharged,76873,55804,21069,4.0
+ADM0794,P0241,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Emergency,ICU,2023-11-14,2023-12-02,18,Coronary Artery Disease,Recovered,231933,139865,92068,4.8
+ADM0795,P0228,Valley Care Hospital,Orthopedics,Dr. Nadia Hussain,Referral,ICU,2023-07-05,2023-07-20,15,Arthritis,Recovered,133063,0,133063,4.2
+ADM0796,P0252,Metro Community Hospital,Neurology,Dr. Omar Farooq,Elective,ICU,2023-10-28,2023-11-03,6,Stroke,Recovered,55502,0,55502,3.0
+ADM0797,P0249,City General Hospital,Pediatrics,Dr. Ali Raza,Elective,General Ward,2024-02-01,2024-02-22,21,Asthma,Under Treatment,129366,0,129366,4.7
+ADM0798,P0299,St. Mary Medical Center,Gynecology,Dr. Zara Ahmed,Referral,ICU,2024-12-31,2024-12-31,1,Endometriosis,Referred,114571,54306,60265,3.4
+ADM0799,P0358,City General Hospital,Oncology,Dr. Maria Lopez,Elective,ICU,2024-12-26,2024-12-31,5,Colon Cancer,Referred,140507,90566,49941,3.9
+ADM0800,P0217,City General Hospital,Orthopedics,Dr. James Wright,Emergency,ICU,2023-03-31,2023-04-09,9,Knee Replacement,Discharged,146838,85254,61584,2.7
+ADM0801,P0096,Metro Community Hospital,Pediatrics,Dr. Ali Raza,Referral,Semi-Private,2024-11-06,2024-11-24,18,Fever,Recovered,130580,80313,50267,3.1
+ADM0802,P0076,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Emergency,Private Room,2024-12-19,2024-12-31,12,Appendectomy,Under Treatment,51592,0,51592,4.7
+ADM0803,P0071,St. Mary Medical Center,Emergency,Dr. Fatima Zahra,Elective,General Ward,2024-05-06,2024-05-13,7,Trauma,Discharged,87595,0,87595,3.5
+ADM0804,P0325,St. Mary Medical Center,Orthopedics,Dr. James Wright,Elective,ICU,2024-11-14,2024-11-19,5,Fracture,Discharged,111668,0,111668,4.1
+ADM0805,P0212,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Elective,Semi-Private,2023-09-26,2023-10-10,14,Trauma,Discharged,95226,0,95226,4.2
+ADM0806,P0477,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Referral,General Ward,2024-04-05,2024-04-25,20,Poisoning,Under Treatment,111404,68593,42811,3.7
+ADM0807,P0039,Valley Care Hospital,Oncology,Dr. David Lee,Referral,ICU,2023-02-01,2023-02-15,14,Colon Cancer,Under Treatment,69957,50160,19797,3.5
+ADM0808,P0238,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Referral,General Ward,2024-07-02,2024-07-22,20,Respiratory Failure,Under Treatment,138449,87243,51206,2.7
+ADM0809,P0251,Valley Care Hospital,Emergency,Dr. Fatima Zahra,Elective,General Ward,2024-06-13,2024-07-03,20,Cardiac Arrest,Under Treatment,152416,104116,48300,4.8
+ADM0810,P0290,Sunrise Health Clinic,Pediatrics,Dr. Priya Sharma,Referral,Semi-Private,2023-11-10,2023-11-17,7,Asthma,Discharged,107754,63057,44697,4.5
+ADM0811,P0353,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Emergency,Semi-Private,2024-12-04,2024-12-16,12,Hernia Repair,Recovered,173357,0,173357,4.3
+ADM0812,P0449,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Elective,General Ward,2023-07-30,2023-08-19,20,Laparoscopy,Referred,239315,132058,107257,4.3
+ADM0813,P0478,Valley Care Hospital,Gynecology,Dr. Susan Park,Referral,Semi-Private,2023-12-16,2023-12-21,5,PCOS,Recovered,79218,40690,38528,3.0
+ADM0814,P0479,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Emergency,Private Room,2024-04-10,2024-04-28,18,Appendectomy,Referred,167810,105721,62089,4.1
+ADM0815,P0251,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,ICU,2024-03-23,2024-04-05,13,Knee Replacement,Under Treatment,88893,42802,46091,2.8
+ADM0816,P0275,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Emergency,Private Room,2023-04-09,2023-04-23,14,Gallbladder Removal,Under Treatment,104019,68128,35891,3.6
+ADM0817,P0119,Valley Care Hospital,Pediatrics,Dr. Ali Raza,Emergency,ICU,2024-09-10,2024-09-29,19,Malnutrition,Discharged,195767,109453,86314,2.9
+ADM0818,P0495,St. Mary Medical Center,Oncology,Dr. Maria Lopez,Elective,ICU,2024-07-08,2024-07-28,20,Breast Cancer,Discharged,62000,0,62000,4.6
+ADM0819,P0114,Metro Community Hospital,Pediatrics,Dr. Ali Raza,Referral,Private Room,2024-09-16,2024-09-22,6,Ear Infection,Referred,62830,28168,34662,3.6
+ADM0820,P0119,City General Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,Private Room,2024-02-23,2024-03-09,15,Fracture,Referred,147834,118216,29618,3.6
+ADM0821,P0449,Sunrise Health Clinic,Emergency,Dr. Ryan Scott,Elective,General Ward,2023-01-22,2023-02-07,16,Trauma,Referred,153107,118995,34112,2.9
+ADM0822,P0207,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Elective,Semi-Private,2023-11-18,2023-11-30,12,Fever,Discharged,109296,78881,30415,4.1
+ADM0823,P0034,City General Hospital,Gynecology,Dr. Susan Park,Referral,Semi-Private,2024-02-03,2024-02-22,19,Endometriosis,Recovered,132163,54084,78079,3.6
+ADM0824,P0179,Sunrise Health Clinic,Pediatrics,Dr. Ali Raza,Emergency,Semi-Private,2024-01-11,2024-01-20,9,Malnutrition,Recovered,104611,52160,52451,4.4
+ADM0825,P0047,City General Hospital,Neurology,Dr. Omar Farooq,Elective,General Ward,2024-09-22,2024-10-10,18,Epilepsy,Discharged,64598,41108,23490,4.6
+ADM0826,P0143,St. Mary Medical Center,Neurology,Dr. Emily Chen,Referral,ICU,2024-02-24,2024-03-05,10,Stroke,Under Treatment,73626,37131,36495,3.9
+ADM0827,P0483,St. Mary Medical Center,Oncology,Dr. David Lee,Elective,General Ward,2023-08-30,2023-08-31,1,Breast Cancer,Referred,66774,29025,37749,3.9
+ADM0828,P0189,St. Mary Medical Center,Neurology,Dr. Emily Chen,Elective,ICU,2024-06-30,2024-07-06,6,Migraine,Referred,84192,46008,38184,2.8
+ADM0829,P0025,St. Mary Medical Center,Gynecology,Dr. Susan Park,Elective,General Ward,2023-05-16,2023-05-24,8,Endometriosis,Discharged,148187,97542,50645,4.3
+ADM0830,P0366,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Emergency,Private Room,2024-10-17,2024-11-06,20,Ear Infection,Referred,152760,128668,24092,4.2
+ADM0831,P0203,Valley Care Hospital,Oncology,Dr. Maria Lopez,Elective,Semi-Private,2024-04-22,2024-05-13,21,Lung Cancer,Referred,195850,131706,64144,2.8
+ADM0832,P0019,City General Hospital,Pediatrics,Dr. Priya Sharma,Elective,Private Room,2024-09-06,2024-09-18,12,Malnutrition,Recovered,107602,86821,20781,3.3
+ADM0833,P0102,St. Mary Medical Center,Cardiology,Dr. Ahmed Khan,Referral,Private Room,2024-03-21,2024-04-11,21,Arrhythmia,Discharged,190353,150253,40100,2.9
+ADM0834,P0462,Metro Community Hospital,Pediatrics,Dr. Ali Raza,Elective,General Ward,2023-09-16,2023-10-02,16,Ear Infection,Recovered,155314,94639,60675,3.1
+ADM0835,P0075,Sunrise Health Clinic,Orthopedics,Dr. Nadia Hussain,Emergency,Private Room,2024-01-19,2024-01-21,2,Arthritis,Referred,84353,67412,16941,2.6
+ADM0836,P0445,City General Hospital,Gynecology,Dr. Zara Ahmed,Emergency,Private Room,2023-12-27,2024-01-07,11,PCOS,Recovered,91853,43600,48253,3.8
+ADM0837,P0323,City General Hospital,Emergency,Dr. Fatima Zahra,Elective,Private Room,2024-04-04,2024-04-17,13,Trauma,Recovered,139078,84439,54639,4.7
+ADM0838,P0389,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Emergency,Semi-Private,2024-06-10,2024-06-12,2,Prenatal Care,Referred,137359,99983,37376,4.3
+ADM0839,P0326,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Emergency,ICU,2023-05-26,2023-06-02,7,Gallbladder Removal,Recovered,70931,37174,33757,4.9
+ADM0840,P0100,Valley Care Hospital,Oncology,Dr. Maria Lopez,Emergency,ICU,2023-07-18,2023-08-01,14,Breast Cancer,Discharged,178545,105718,72827,4.6
+ADM0841,P0136,City General Hospital,Gynecology,Dr. Susan Park,Elective,Private Room,2023-08-13,2023-08-28,15,Endometriosis,Under Treatment,113561,51262,62299,3.9
+ADM0842,P0281,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Referral,General Ward,2024-06-23,2024-06-28,5,Poisoning,Recovered,151474,109433,42041,3.6
+ADM0843,P0140,Valley Care Hospital,Emergency,Dr. Fatima Zahra,Elective,ICU,2023-11-04,2023-11-20,16,Poisoning,Discharged,152553,126382,26171,4.6
+ADM0844,P0113,Metro Community Hospital,Pediatrics,Dr. Priya Sharma,Elective,Private Room,2023-06-06,2023-06-10,4,Malnutrition,Recovered,140458,79127,61331,3.1
+ADM0845,P0320,City General Hospital,Gynecology,Dr. Susan Park,Elective,ICU,2023-11-18,2023-11-20,2,Prenatal Care,Under Treatment,97075,57709,39366,2.8
+ADM0846,P0121,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Elective,General Ward,2024-02-10,2024-02-29,19,Uterine Fibroid,Under Treatment,120293,0,120293,2.9
+ADM0847,P0168,City General Hospital,Oncology,Dr. Maria Lopez,Elective,ICU,2023-04-14,2023-04-17,3,Lung Cancer,Recovered,67437,27232,40205,2.5
+ADM0848,P0091,St. Mary Medical Center,Cardiology,Dr. Ahmed Khan,Emergency,General Ward,2023-10-26,2023-11-07,12,Heart Failure,Under Treatment,187062,133748,53314,2.7
+ADM0849,P0299,City General Hospital,Orthopedics,Dr. Nadia Hussain,Emergency,Private Room,2024-09-21,2024-09-22,1,Arthritis,Recovered,70265,56470,13795,4.6
+ADM0850,P0146,City General Hospital,Neurology,Dr. Emily Chen,Elective,General Ward,2024-04-18,2024-05-08,20,Epilepsy,Recovered,138933,104093,34840,3.5
+ADM0851,P0174,Metro Community Hospital,Neurology,Dr. Omar Farooq,Elective,General Ward,2024-04-08,2024-04-20,12,Epilepsy,Under Treatment,126163,87566,38597,3.0
+ADM0852,P0237,St. Mary Medical Center,Neurology,Dr. Omar Farooq,Emergency,General Ward,2023-02-07,2023-02-10,3,Migraine,Under Treatment,49903,23278,26625,4.4
+ADM0853,P0353,Valley Care Hospital,Emergency,Dr. Fatima Zahra,Referral,General Ward,2023-09-02,2023-09-18,16,Respiratory Failure,Recovered,119522,0,119522,3.4
+ADM0854,P0201,Sunrise Health Clinic,Pediatrics,Dr. Priya Sharma,Emergency,Semi-Private,2023-03-09,2023-03-11,2,Ear Infection,Referred,58661,44678,13983,4.5
+ADM0855,P0442,Metro Community Hospital,Emergency,Dr. Ryan Scott,Emergency,General Ward,2023-05-17,2023-05-28,11,Cardiac Arrest,Referred,173383,120723,52660,2.7
+ADM0856,P0449,St. Mary Medical Center,Emergency,Dr. Fatima Zahra,Emergency,General Ward,2023-02-13,2023-02-18,5,Respiratory Failure,Recovered,85127,53027,32100,4.4
+ADM0857,P0324,Sunrise Health Clinic,Emergency,Dr. Ryan Scott,Emergency,General Ward,2024-09-21,2024-10-03,12,Cardiac Arrest,Under Treatment,84419,52108,32311,3.8
+ADM0858,P0456,Metro Community Hospital,Pediatrics,Dr. Priya Sharma,Emergency,Private Room,2023-02-10,2023-02-25,15,Malnutrition,Recovered,186734,99079,87655,3.5
+ADM0859,P0322,Metro Community Hospital,Orthopedics,Dr. James Wright,Elective,Private Room,2024-03-03,2024-03-18,15,Arthritis,Recovered,152205,124106,28099,4.5
+ADM0860,P0343,Metro Community Hospital,General Surgery,Dr. Layla Hassan,Emergency,Semi-Private,2023-09-29,2023-09-30,1,Appendectomy,Referred,95742,47853,47889,2.6
+ADM0861,P0039,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Referral,ICU,2024-07-13,2024-07-27,14,Laparoscopy,Discharged,98597,74695,23902,3.8
+ADM0862,P0283,City General Hospital,General Surgery,Dr. Michael Torres,Emergency,Semi-Private,2023-08-29,2023-09-11,13,Appendectomy,Under Treatment,151264,72570,78694,4.1
+ADM0863,P0485,City General Hospital,Gynecology,Dr. Susan Park,Referral,Private Room,2023-04-12,2023-04-17,5,Endometriosis,Discharged,151964,72344,79620,4.8
+ADM0864,P0105,Sunrise Health Clinic,Neurology,Dr. Emily Chen,Emergency,General Ward,2023-04-10,2023-04-20,10,Migraine,Recovered,118655,76759,41896,4.9
+ADM0865,P0034,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Referral,ICU,2023-04-27,2023-05-12,15,Laparoscopy,Under Treatment,118454,88213,30241,4.5
+ADM0866,P0183,Sunrise Health Clinic,Orthopedics,Dr. James Wright,Emergency,General Ward,2023-06-30,2023-07-13,13,Fracture,Under Treatment,92504,67194,25310,2.9
+ADM0867,P0418,Metro Community Hospital,Pediatrics,Dr. Priya Sharma,Emergency,Semi-Private,2024-10-08,2024-10-20,12,Asthma,Discharged,91991,52911,39080,3.0
+ADM0868,P0327,Valley Care Hospital,Gynecology,Dr. Susan Park,Referral,Semi-Private,2024-12-15,2024-12-18,3,Endometriosis,Under Treatment,136786,95157,41629,4.1
+ADM0869,P0102,City General Hospital,Cardiology,Dr. Sara Malik,Referral,Private Room,2024-04-08,2024-04-15,7,Arrhythmia,Recovered,56880,23190,33690,4.9
+ADM0870,P0442,City General Hospital,Gynecology,Dr. Zara Ahmed,Elective,Semi-Private,2023-05-18,2023-05-22,4,Prenatal Care,Recovered,127193,94728,32465,4.1
+ADM0871,P0017,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Elective,General Ward,2023-11-16,2023-12-04,18,Cardiac Arrest,Referred,112266,88285,23981,5.0
+ADM0872,P0144,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Elective,ICU,2023-03-18,2023-04-04,17,Trauma,Under Treatment,127323,68598,58725,3.3
+ADM0873,P0365,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Emergency,ICU,2024-06-21,2024-07-11,20,Arthritis,Under Treatment,161687,0,161687,3.3
+ADM0874,P0064,Valley Care Hospital,Neurology,Dr. Emily Chen,Elective,Private Room,2023-08-06,2023-08-25,19,Migraine,Under Treatment,171001,0,171001,4.8
+ADM0875,P0337,City General Hospital,General Surgery,Dr. Layla Hassan,Referral,ICU,2024-02-18,2024-02-20,2,Hernia Repair,Recovered,75408,52488,22920,2.7
+ADM0876,P0484,City General Hospital,Cardiology,Dr. Ahmed Khan,Elective,General Ward,2024-05-03,2024-05-05,2,Coronary Artery Disease,Recovered,110985,64670,46315,3.3
+ADM0877,P0095,City General Hospital,Orthopedics,Dr. James Wright,Elective,ICU,2024-04-26,2024-05-03,7,Arthritis,Discharged,149849,71361,78488,3.7
+ADM0878,P0122,Metro Community Hospital,Cardiology,Dr. Sara Malik,Elective,General Ward,2023-08-05,2023-08-25,20,Arrhythmia,Referred,162897,125636,37261,4.8
+ADM0879,P0148,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Emergency,ICU,2024-09-23,2024-09-27,4,Laparoscopy,Discharged,133600,0,133600,4.4
+ADM0880,P0354,Valley Care Hospital,Neurology,Dr. Emily Chen,Emergency,General Ward,2023-07-08,2023-07-29,21,Migraine,Recovered,186187,95319,90868,4.2
+ADM0881,P0069,Sunrise Health Clinic,Pediatrics,Dr. Ali Raza,Elective,ICU,2023-04-26,2023-05-15,19,Malnutrition,Discharged,83568,60399,23169,3.6
+ADM0882,P0076,Sunrise Health Clinic,Orthopedics,Dr. Nadia Hussain,Elective,General Ward,2023-11-29,2023-12-13,14,Fracture,Discharged,139001,0,139001,3.5
+ADM0883,P0097,Metro Community Hospital,Pediatrics,Dr. Priya Sharma,Emergency,ICU,2024-05-15,2024-05-24,9,Fever,Referred,98728,39627,59101,3.8
+ADM0884,P0105,City General Hospital,Oncology,Dr. David Lee,Elective,ICU,2023-10-22,2023-10-27,5,Leukemia,Under Treatment,74429,44045,30384,3.3
+ADM0885,P0115,St. Mary Medical Center,Gynecology,Dr. Zara Ahmed,Elective,General Ward,2024-12-05,2024-12-14,9,PCOS,Discharged,115734,54650,61084,4.1
+ADM0886,P0197,Valley Care Hospital,Pediatrics,Dr. Priya Sharma,Referral,ICU,2024-06-05,2024-06-26,21,Malnutrition,Under Treatment,94079,68166,25913,4.4
+ADM0887,P0011,Valley Care Hospital,Orthopedics,Dr. James Wright,Referral,Semi-Private,2023-04-20,2023-04-28,8,Knee Replacement,Discharged,100856,51430,49426,4.9
+ADM0888,P0168,Valley Care Hospital,Oncology,Dr. Maria Lopez,Referral,Semi-Private,2023-12-16,2023-12-17,1,Colon Cancer,Under Treatment,88652,39788,48864,4.0
+ADM0889,P0322,Valley Care Hospital,Oncology,Dr. David Lee,Emergency,Private Room,2024-08-01,2024-08-20,19,Breast Cancer,Under Treatment,124989,76535,48454,3.4
+ADM0890,P0389,Valley Care Hospital,Pediatrics,Dr. Ali Raza,Emergency,General Ward,2023-12-08,2023-12-24,16,Asthma,Referred,121794,49618,72176,4.7
+ADM0891,P0105,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Emergency,General Ward,2024-07-01,2024-07-04,3,Uterine Fibroid,Under Treatment,64000,38309,25691,2.7
+ADM0892,P0132,Valley Care Hospital,Cardiology,Dr. Ahmed Khan,Emergency,Private Room,2024-02-23,2024-02-27,4,Coronary Artery Disease,Recovered,90468,72412,18056,2.7
+ADM0893,P0129,City General Hospital,Pediatrics,Dr. Ali Raza,Elective,General Ward,2024-05-02,2024-05-11,9,Ear Infection,Under Treatment,131120,97133,33987,2.8
+ADM0894,P0258,Valley Care Hospital,Pediatrics,Dr. Priya Sharma,Referral,General Ward,2023-10-12,2023-10-13,1,Fever,Recovered,98728,81016,17712,5.0
+ADM0895,P0293,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Emergency,General Ward,2023-07-17,2023-07-23,6,Coronary Artery Disease,Discharged,72366,30418,41948,3.2
+ADM0896,P0032,St. Mary Medical Center,Gynecology,Dr. Zara Ahmed,Elective,Private Room,2024-09-25,2024-09-30,5,Endometriosis,Discharged,47349,0,47349,4.2
+ADM0897,P0427,Metro Community Hospital,Neurology,Dr. Emily Chen,Referral,Semi-Private,2024-01-23,2024-01-24,1,Migraine,Recovered,53377,0,53377,4.4
+ADM0898,P0109,St. Mary Medical Center,Orthopedics,Dr. Nadia Hussain,Referral,Private Room,2024-03-01,2024-03-05,4,Back Pain,Discharged,98938,75754,23184,4.6
+ADM0899,P0305,Metro Community Hospital,Pediatrics,Dr. Priya Sharma,Elective,General Ward,2024-03-11,2024-03-17,6,Fever,Discharged,153024,91858,61166,3.5
+ADM0900,P0193,City General Hospital,Gynecology,Dr. Zara Ahmed,Emergency,ICU,2024-08-18,2024-08-22,4,Endometriosis,Referred,152245,0,152245,4.8
+ADM0901,P0298,City General Hospital,Neurology,Dr. Emily Chen,Referral,ICU,2024-06-14,2024-06-20,6,Stroke,Recovered,123878,56599,67279,3.3
+ADM0902,P0276,Sunrise Health Clinic,Orthopedics,Dr. Nadia Hussain,Elective,General Ward,2023-09-25,2023-10-06,11,Fracture,Discharged,147209,70696,76513,4.2
+ADM0903,P0046,Valley Care Hospital,Neurology,Dr. Emily Chen,Referral,Private Room,2024-03-28,2024-03-31,3,Parkinson Disease,Discharged,108239,0,108239,4.2
+ADM0904,P0434,City General Hospital,Emergency,Dr. Ryan Scott,Referral,ICU,2023-02-03,2023-02-04,1,Trauma,Under Treatment,124812,87268,37544,2.9
+ADM0905,P0381,City General Hospital,Orthopedics,Dr. Nadia Hussain,Referral,Private Room,2024-12-05,2024-12-12,7,Knee Replacement,Recovered,119720,0,119720,4.3
+ADM0906,P0181,Metro Community Hospital,Emergency,Dr. Fatima Zahra,Elective,General Ward,2024-11-19,2024-11-23,4,Trauma,Discharged,154252,81821,72431,4.0
+ADM0907,P0296,Sunrise Health Clinic,Gynecology,Dr. Susan Park,Referral,ICU,2024-05-17,2024-06-03,17,Prenatal Care,Referred,156143,74804,81339,3.7
+ADM0908,P0260,Metro Community Hospital,Oncology,Dr. David Lee,Elective,Private Room,2023-01-27,2023-01-29,2,Colon Cancer,Recovered,100161,69904,30257,3.4
+ADM0909,P0265,Valley Care Hospital,General Surgery,Dr. Michael Torres,Elective,General Ward,2023-06-03,2023-06-16,13,Gallbladder Removal,Under Treatment,110995,56176,54819,4.2
+ADM0910,P0188,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Referral,Semi-Private,2024-08-13,2024-08-26,13,Appendectomy,Referred,162921,0,162921,3.0
+ADM0911,P0211,Valley Care Hospital,Gynecology,Dr. Zara Ahmed,Emergency,ICU,2023-12-30,2023-12-31,1,PCOS,Under Treatment,143384,0,143384,4.5
+ADM0912,P0476,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Referral,Private Room,2023-09-16,2023-10-03,17,Fracture,Referred,113838,83367,30471,3.7
+ADM0913,P0477,Valley Care Hospital,Pediatrics,Dr. Ali Raza,Elective,Private Room,2023-07-18,2023-07-31,13,Asthma,Discharged,165646,105640,60006,4.2
+ADM0914,P0073,Valley Care Hospital,Oncology,Dr. Maria Lopez,Elective,Private Room,2024-11-25,2024-12-05,10,Lung Cancer,Recovered,154115,0,154115,3.1
+ADM0915,P0215,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Emergency,Semi-Private,2024-06-25,2024-07-09,14,Migraine,Referred,87194,72576,14618,3.2
+ADM0916,P0324,St. Mary Medical Center,Oncology,Dr. David Lee,Referral,Private Room,2023-12-30,2024-01-11,12,Colon Cancer,Discharged,145905,70613,75292,3.2
+ADM0917,P0492,City General Hospital,Cardiology,Dr. Sara Malik,Referral,ICU,2024-04-26,2024-05-09,13,Coronary Artery Disease,Recovered,132479,69671,62808,3.4
+ADM0918,P0285,Sunrise Health Clinic,Neurology,Dr. Omar Farooq,Emergency,Private Room,2023-12-06,2023-12-11,5,Migraine,Under Treatment,122558,87474,35084,3.1
+ADM0919,P0470,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Elective,General Ward,2023-12-30,2024-01-06,7,Asthma,Recovered,121743,65958,55785,2.7
+ADM0920,P0365,Valley Care Hospital,Gynecology,Dr. Zara Ahmed,Emergency,ICU,2024-04-22,2024-04-26,4,Uterine Fibroid,Referred,105871,0,105871,3.0
+ADM0921,P0208,St. Mary Medical Center,Emergency,Dr. Fatima Zahra,Elective,Semi-Private,2023-02-10,2023-02-24,14,Trauma,Referred,70654,58664,11990,4.9
+ADM0922,P0440,Valley Care Hospital,Oncology,Dr. David Lee,Emergency,ICU,2024-06-21,2024-06-22,1,Colon Cancer,Referred,26808,0,26808,2.8
+ADM0923,P0066,St. Mary Medical Center,Cardiology,Dr. Sara Malik,Elective,Private Room,2024-12-05,2024-12-18,13,Hypertension,Referred,129637,0,129637,4.8
+ADM0924,P0452,Metro Community Hospital,Pediatrics,Dr. Ali Raza,Elective,ICU,2024-01-12,2024-02-01,20,Fever,Under Treatment,173109,138253,34856,2.8
+ADM0925,P0150,St. Mary Medical Center,Pediatrics,Dr. Ali Raza,Elective,General Ward,2024-02-11,2024-02-28,17,Asthma,Discharged,174647,71932,102715,4.9
+ADM0926,P0311,City General Hospital,Neurology,Dr. Emily Chen,Elective,ICU,2023-09-03,2023-09-18,15,Epilepsy,Discharged,107275,63101,44174,3.8
+ADM0927,P0209,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Elective,Semi-Private,2024-10-07,2024-10-08,1,Hypertension,Recovered,147811,74932,72879,2.8
+ADM0928,P0066,City General Hospital,Oncology,Dr. Maria Lopez,Elective,Semi-Private,2023-02-13,2023-02-20,7,Breast Cancer,Recovered,57630,0,57630,3.5
+ADM0929,P0351,City General Hospital,Gynecology,Dr. Susan Park,Elective,ICU,2023-11-25,2023-12-02,7,Endometriosis,Discharged,68359,34068,34291,3.6
+ADM0930,P0056,Metro Community Hospital,Gynecology,Dr. Susan Park,Elective,ICU,2024-03-10,2024-03-28,18,PCOS,Discharged,178894,88532,90362,3.3
+ADM0931,P0284,Valley Care Hospital,Cardiology,Dr. Ahmed Khan,Elective,ICU,2024-04-03,2024-04-10,7,Coronary Artery Disease,Discharged,88989,54693,34296,4.1
+ADM0932,P0315,City General Hospital,Orthopedics,Dr. James Wright,Referral,Private Room,2023-04-15,2023-04-27,12,Knee Replacement,Under Treatment,150933,61599,89334,3.2
+ADM0933,P0094,Metro Community Hospital,Cardiology,Dr. Sara Malik,Referral,Semi-Private,2023-09-19,2023-10-08,19,Heart Failure,Referred,139248,93161,46087,2.7
+ADM0934,P0268,St. Mary Medical Center,General Surgery,Dr. Michael Torres,Emergency,Private Room,2024-07-02,2024-07-14,12,Appendectomy,Under Treatment,154809,128239,26570,2.6
+ADM0935,P0257,Valley Care Hospital,General Surgery,Dr. Michael Torres,Elective,General Ward,2024-09-25,2024-10-02,7,Laparoscopy,Referred,59792,28893,30899,3.9
+ADM0936,P0492,Metro Community Hospital,Cardiology,Dr. Ahmed Khan,Elective,Semi-Private,2024-09-29,2024-09-30,1,Hypertension,Referred,107758,62402,45356,2.9
+ADM0937,P0111,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Referral,General Ward,2023-08-22,2023-09-08,17,Hernia Repair,Recovered,151924,106585,45339,4.6
+ADM0938,P0146,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Emergency,General Ward,2024-02-22,2024-02-26,4,Arrhythmia,Under Treatment,73726,49728,23998,3.9
+ADM0939,P0076,Sunrise Health Clinic,Oncology,Dr. Maria Lopez,Elective,ICU,2023-04-06,2023-04-24,18,Lung Cancer,Recovered,140781,0,140781,3.9
+ADM0940,P0415,City General Hospital,Oncology,Dr. Maria Lopez,Emergency,Private Room,2024-11-19,2024-11-24,5,Lung Cancer,Under Treatment,147730,94226,53504,3.5
+ADM0941,P0077,Valley Care Hospital,Pediatrics,Dr. Ali Raza,Elective,General Ward,2023-11-15,2023-12-02,17,Fever,Recovered,101474,79615,21859,4.2
+ADM0942,P0264,Valley Care Hospital,Oncology,Dr. Maria Lopez,Referral,General Ward,2024-02-05,2024-02-18,13,Breast Cancer,Recovered,52726,40872,11854,4.2
+ADM0943,P0417,City General Hospital,Emergency,Dr. Fatima Zahra,Emergency,Private Room,2023-02-19,2023-02-22,3,Trauma,Under Treatment,88659,59883,28776,2.6
+ADM0944,P0209,Valley Care Hospital,Neurology,Dr. Emily Chen,Referral,Private Room,2023-07-20,2023-08-08,19,Stroke,Under Treatment,156641,106851,49790,3.2
+ADM0945,P0459,Metro Community Hospital,Gynecology,Dr. Susan Park,Emergency,Semi-Private,2024-03-29,2024-04-18,20,Endometriosis,Discharged,109979,46871,63108,4.0
+ADM0946,P0177,Valley Care Hospital,Cardiology,Dr. Sara Malik,Elective,ICU,2023-04-05,2023-04-21,16,Coronary Artery Disease,Recovered,210645,0,210645,4.4
+ADM0947,P0135,Metro Community Hospital,Cardiology,Dr. Sara Malik,Emergency,ICU,2024-06-20,2024-07-08,18,Coronary Artery Disease,Under Treatment,95027,46496,48531,3.4
+ADM0948,P0477,St. Mary Medical Center,Neurology,Dr. Omar Farooq,Emergency,General Ward,2023-12-20,2024-01-02,13,Stroke,Recovered,95060,77685,17375,2.7
+ADM0949,P0084,Metro Community Hospital,Cardiology,Dr. Sara Malik,Emergency,Semi-Private,2023-04-26,2023-05-04,8,Arrhythmia,Under Treatment,148964,114900,34064,3.4
+ADM0950,P0098,Metro Community Hospital,Pediatrics,Dr. Ali Raza,Referral,Private Room,2023-03-18,2023-04-05,18,Fever,Discharged,112448,74963,37485,4.7
+ADM0951,P0151,City General Hospital,Cardiology,Dr. Sara Malik,Emergency,Semi-Private,2024-03-17,2024-03-26,9,Arrhythmia,Recovered,78269,47218,31051,4.8
+ADM0952,P0464,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Referral,ICU,2024-11-14,2024-12-01,17,Endometriosis,Discharged,76158,30943,45215,2.8
+ADM0953,P0100,Valley Care Hospital,General Surgery,Dr. Layla Hassan,Referral,Semi-Private,2024-03-05,2024-03-11,6,Hernia Repair,Referred,127294,92994,34300,4.7
+ADM0954,P0119,City General Hospital,Pediatrics,Dr. Priya Sharma,Emergency,Semi-Private,2024-06-11,2024-06-17,6,Fever,Referred,127395,74372,53023,4.5
+ADM0955,P0302,Metro Community Hospital,Oncology,Dr. Maria Lopez,Emergency,Semi-Private,2024-11-28,2024-12-02,4,Lung Cancer,Recovered,109591,46849,62742,3.4
+ADM0956,P0002,Valley Care Hospital,Oncology,Dr. David Lee,Emergency,Private Room,2023-05-28,2023-05-31,3,Colon Cancer,Discharged,137511,0,137511,2.7
+ADM0957,P0202,City General Hospital,Emergency,Dr. Ryan Scott,Referral,ICU,2023-12-10,2023-12-28,18,Poisoning,Recovered,156679,81349,75330,5.0
+ADM0958,P0072,Valley Care Hospital,Emergency,Dr. Fatima Zahra,Emergency,Semi-Private,2024-02-12,2024-02-27,15,Cardiac Arrest,Recovered,160338,104362,55976,4.9
+ADM0959,P0065,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Referral,Private Room,2023-02-04,2023-02-24,20,Heart Failure,Discharged,180402,125928,54474,3.2
+ADM0960,P0311,Valley Care Hospital,Emergency,Dr. Fatima Zahra,Elective,Semi-Private,2024-06-08,2024-06-26,18,Trauma,Referred,176392,77226,99166,2.7
+ADM0961,P0473,St. Mary Medical Center,Neurology,Dr. Emily Chen,Emergency,Semi-Private,2024-07-11,2024-07-24,13,Epilepsy,Referred,133388,65119,68269,4.5
+ADM0962,P0494,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Referral,Semi-Private,2024-05-21,2024-06-10,20,Fracture,Discharged,164373,105838,58535,3.3
+ADM0963,P0296,Metro Community Hospital,Pediatrics,Dr. Priya Sharma,Referral,General Ward,2023-02-09,2023-03-02,21,Asthma,Under Treatment,187287,119110,68177,2.6
+ADM0964,P0138,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Emergency,ICU,2024-02-04,2024-02-17,13,Coronary Artery Disease,Under Treatment,169847,120341,49506,4.7
+ADM0965,P0091,Sunrise Health Clinic,Emergency,Dr. Fatima Zahra,Emergency,General Ward,2023-10-02,2023-10-11,9,Cardiac Arrest,Under Treatment,86073,52273,33800,3.0
+ADM0966,P0127,Valley Care Hospital,Neurology,Dr. Emily Chen,Referral,ICU,2024-08-12,2024-08-21,9,Epilepsy,Referred,177409,140130,37279,2.9
+ADM0967,P0041,St. Mary Medical Center,Emergency,Dr. Fatima Zahra,Elective,General Ward,2024-06-29,2024-07-10,11,Poisoning,Referred,152033,123341,28692,4.9
+ADM0968,P0114,Sunrise Health Clinic,Pediatrics,Dr. Ali Raza,Referral,Semi-Private,2024-06-26,2024-07-16,20,Malnutrition,Under Treatment,202249,90203,112046,2.6
+ADM0969,P0331,Valley Care Hospital,Gynecology,Dr. Susan Park,Elective,Private Room,2023-09-27,2023-10-10,13,Prenatal Care,Discharged,121188,0,121188,2.5
+ADM0970,P0157,Valley Care Hospital,Orthopedics,Dr. James Wright,Emergency,Private Room,2024-08-13,2024-08-16,3,Fracture,Under Treatment,59463,36743,22720,4.5
+ADM0971,P0045,St. Mary Medical Center,Emergency,Dr. Fatima Zahra,Elective,General Ward,2024-02-08,2024-02-18,10,Trauma,Discharged,66238,40018,26220,4.3
+ADM0972,P0188,Metro Community Hospital,Pediatrics,Dr. Priya Sharma,Elective,Private Room,2024-05-02,2024-05-19,17,Fever,Recovered,118673,0,118673,4.9
+ADM0973,P0137,City General Hospital,Neurology,Dr. Omar Farooq,Referral,ICU,2023-10-18,2023-10-21,3,Parkinson Disease,Recovered,55897,26819,29078,4.0
+ADM0974,P0428,Metro Community Hospital,Neurology,Dr. Omar Farooq,Elective,General Ward,2023-01-07,2023-01-16,9,Stroke,Under Treatment,90725,70776,19949,3.9
+ADM0975,P0468,Metro Community Hospital,Oncology,Dr. Maria Lopez,Referral,Semi-Private,2023-03-01,2023-03-12,11,Colon Cancer,Under Treatment,176744,103745,72999,4.7
+ADM0976,P0071,Sunrise Health Clinic,Gynecology,Dr. Susan Park,Referral,Semi-Private,2024-06-06,2024-06-17,11,Prenatal Care,Under Treatment,165125,0,165125,4.5
+ADM0977,P0431,St. Mary Medical Center,General Surgery,Dr. Layla Hassan,Elective,ICU,2024-05-29,2024-06-03,5,Hernia Repair,Recovered,86978,72665,14313,4.7
+ADM0978,P0022,Sunrise Health Clinic,Neurology,Dr. Emily Chen,Emergency,General Ward,2024-01-17,2024-02-07,21,Migraine,Under Treatment,153473,122055,31418,4.7
+ADM0979,P0036,City General Hospital,Pediatrics,Dr. Ali Raza,Referral,Semi-Private,2023-11-28,2023-12-09,11,Asthma,Recovered,121097,0,121097,3.2
+ADM0980,P0146,Metro Community Hospital,Oncology,Dr. David Lee,Elective,Semi-Private,2024-08-23,2024-09-12,20,Leukemia,Under Treatment,168820,105481,63339,4.1
+ADM0981,P0077,St. Mary Medical Center,Cardiology,Dr. Sara Malik,Emergency,ICU,2024-01-11,2024-01-28,17,Coronary Artery Disease,Discharged,174049,141616,32433,4.3
+ADM0982,P0414,St. Mary Medical Center,Orthopedics,Dr. James Wright,Referral,Private Room,2023-07-14,2023-07-17,3,Knee Replacement,Recovered,52064,24181,27883,3.4
+ADM0983,P0005,Valley Care Hospital,Orthopedics,Dr. Nadia Hussain,Elective,ICU,2023-09-08,2023-09-22,14,Fracture,Referred,97603,47999,49604,3.5
+ADM0984,P0362,Metro Community Hospital,Orthopedics,Dr. Nadia Hussain,Referral,Private Room,2023-07-01,2023-07-07,6,Back Pain,Discharged,99023,53906,45117,3.4
+ADM0985,P0442,Sunrise Health Clinic,Cardiology,Dr. Sara Malik,Elective,General Ward,2023-05-26,2023-06-15,20,Hypertension,Referred,142469,106707,35762,2.6
+ADM0986,P0445,Metro Community Hospital,Neurology,Dr. Emily Chen,Emergency,Semi-Private,2023-05-04,2023-05-25,21,Stroke,Discharged,121133,73373,47760,4.9
+ADM0987,P0475,Sunrise Health Clinic,Cardiology,Dr. Ahmed Khan,Referral,Semi-Private,2023-07-06,2023-07-12,6,Coronary Artery Disease,Recovered,79162,64069,15093,4.3
+ADM0988,P0410,Valley Care Hospital,Emergency,Dr. Ryan Scott,Emergency,General Ward,2023-03-19,2023-04-09,21,Cardiac Arrest,Under Treatment,143547,0,143547,4.3
+ADM0989,P0126,Sunrise Health Clinic,Pediatrics,Dr. Priya Sharma,Referral,Semi-Private,2024-07-23,2024-08-02,10,Asthma,Discharged,85659,53117,32542,4.5
+ADM0990,P0149,City General Hospital,Pediatrics,Dr. Priya Sharma,Referral,ICU,2024-08-07,2024-08-18,11,Asthma,Referred,102048,78051,23997,4.0
+ADM0991,P0435,City General Hospital,Gynecology,Dr. Susan Park,Emergency,Semi-Private,2023-07-11,2023-07-30,19,Endometriosis,Recovered,88205,41716,46489,3.0
+ADM0992,P0363,St. Mary Medical Center,Emergency,Dr. Ryan Scott,Emergency,Private Room,2024-08-16,2024-09-03,18,Respiratory Failure,Recovered,129612,60549,69063,3.9
+ADM0993,P0089,City General Hospital,Cardiology,Dr. Sara Malik,Referral,Semi-Private,2023-09-29,2023-10-17,18,Heart Failure,Discharged,187741,0,187741,4.2
+ADM0994,P0370,Valley Care Hospital,Emergency,Dr. Ryan Scott,Emergency,General Ward,2024-01-01,2024-01-07,6,Trauma,Under Treatment,91070,52589,38481,4.9
+ADM0995,P0121,City General Hospital,Oncology,Dr. David Lee,Elective,General Ward,2024-08-09,2024-08-28,19,Lung Cancer,Recovered,126941,0,126941,2.6
+ADM0996,P0077,Valley Care Hospital,Neurology,Dr. Emily Chen,Emergency,General Ward,2023-12-23,2023-12-24,1,Migraine,Referred,41355,25437,15918,5.0
+ADM0997,P0043,Valley Care Hospital,Pediatrics,Dr. Ali Raza,Referral,General Ward,2024-05-26,2024-05-29,3,Fever,Discharged,106838,61861,44977,2.9
+ADM0998,P0444,Metro Community Hospital,Gynecology,Dr. Zara Ahmed,Emergency,ICU,2024-04-22,2024-04-27,5,Endometriosis,Referred,47690,35630,12060,2.8
+ADM0999,P0468,City General Hospital,Neurology,Dr. Omar Farooq,Referral,Semi-Private,2023-05-04,2023-05-24,20,Stroke,Discharged,179195,82644,96551,4.8
+ADM1000,P0383,City General Hospital,Pediatrics,Dr. Ali Raza,Referral,General Ward,2023-10-28,2023-11-16,19,Ear Infection,Under Treatment,114444,63149,51295,4.4
